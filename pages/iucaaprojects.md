@@ -11,7 +11,7 @@ You may find below a list of publications, and (in some cases) associated pages 
 
 
 {% for post in site.posts %}
-{% if post.categories == "iucaaprojs" %}
+{% if post in site.categories["iucaaprojs"] %}
 |<img width=1604 src="{{site.url}}/{{post.img}}"> <a href="{{site.url}}/{{post.url}}">{{ post.title }} |
 {% endif %}
 {% endfor %}
