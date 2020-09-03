@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Projects
-description: Summarizing all projects
 ---
 
 Hello there!
