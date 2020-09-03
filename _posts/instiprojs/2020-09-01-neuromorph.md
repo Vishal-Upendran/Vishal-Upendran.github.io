@@ -31,7 +31,7 @@ The muscle spindle acts as the 'actuator' of the muscle system. However, the for
 |![]({{site.url}}/img/neuro_ia.jpg = 50x50)|![]({{site.url}}/img/neuro_ii.jpg =50x50)|
 |:--:|:--:|
 |Fig 3: Ia response to ramp-step|
-Fig 4: II response to ramp-step}
+Fig 4: II response to ramp-step|
 
 
 
