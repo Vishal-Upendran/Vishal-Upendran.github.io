@@ -29,6 +29,8 @@ Automated the process of extraction and classiﬁcation of over 1000 light curve
 
 >Supervisor(s): Dr. Jorg Conradt, Dr. Christoph Richter, Neuroscientiﬁc System theory, TU Munich
 
+{{site.posts}}
+
 Overview:
 
  Project done as a part of DAAD-WISE program 2016. Mathematically modeled muscles to emulate them in Intelligent Robots, and library for controller created to enable existing intelligent robotics setup generate a muscle-inspired adaptive response.
