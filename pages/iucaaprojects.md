@@ -11,5 +11,5 @@ You may find below a list of publications, and (in some cases) associated pages 
 
 
 {% for post in site.posts %}
-|<img width=1604 src="{{site.url}}/{{post.img}}"> {{ post.title }} |
+|<img width=1604 src="{{site.url}}/{{post.img}}"> <a href="{{site.url}}/{{post.url}}">{{ post.title }} |
 {% endfor %}
