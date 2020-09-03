@@ -2,7 +2,7 @@
 layout: default
 title: Graduate School
 description: 
-category: iucaaprojs
+categories: iucaaprojs
 ---
 
 You may find below a list of publications, and (in some cases) associated pages which simply the work for the common reader. The requisite citation is also mentioned in the content.

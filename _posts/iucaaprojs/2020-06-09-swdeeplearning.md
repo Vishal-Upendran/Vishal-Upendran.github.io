@@ -7,5 +7,5 @@ img: img/swdeeplearning.png
 thumbnail: img/swdeeplearning.png
 project-date: April 2014
 client: Start Bootstrap
-category: iucaaprojs
+categories: iucaaprojs
 ---
