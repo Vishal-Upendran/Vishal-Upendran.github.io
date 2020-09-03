@@ -25,12 +25,13 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="{{site.url}}/pages/iucaaprojects.html" class="btn">PhD projects</a>
+      <a href="{{site.url}}/pages/instiprojects.html" class="btn">Undergrad projects</a>
+      <a href="{{ site.url }}/pages/paperlist.html" class="btn">Collation of papers</a>
     </header>
 
     <main id="content" class="main-content" role="main">
-        <a href="{{site.url}}/pages/iucaaprojects.html" class="btn-large">PhD projects</a>
-        <a href="{{site.url}}/pages/instiprojects.html" class="btn">Undergrad projects</a>
-        <a href="{{ site.url }}/pages/paperlist.html" class="btn">Collation of papers</a>
+      {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
