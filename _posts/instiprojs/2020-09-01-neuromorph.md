@@ -37,11 +37,11 @@ The muscle spindle acts as the 'actuator' of the muscle system. However, the for
 
 The muscle spindle's force output is controlled only by the input spike rate from efferent neurons. A single spike generates a 'Muscle twitch', and a combination of such twitches gives rise to a general muscle response. The response (obviously) has a saturation, and the simulation of model looks like this:
 
-<center>
+<centre>
 | <img src = "{{site.url}}/img/neuro_low.jpg" width="300"> | <img src="{{site.url}}/img/neuro_high.jpg" width="300"> |
 |:--:|:--:|
 | Fig 5: Low frequency spike rate response. | Fig 6: Muscle tetanus, or high frequency rate. Max muscle force. |
-</center>
+</centre>
 
 So we have a model for the actuator, a model for the sensor, and SpiNnaker, a model for the controller. For a given physical system, we can incorporate these models as interfacing units, and after setting up appropriate conditions for actuation, the system would potentially act as a Myo-morphic system!
 
