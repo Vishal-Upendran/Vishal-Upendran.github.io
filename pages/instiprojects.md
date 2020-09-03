@@ -35,7 +35,7 @@ Overview:
 
 To be incorporated in the Human Brain project as the control and actuation mechanism of myomorphic hardware.
 
-[Detailed post here](../_posts/instiprojs/2020-09-01-neuromorph.md). 
+[Detailed post here]({% post_url 2020-09-01-neuromorph %}). 
 
 The detailed page can be found here. Also, some of my 'Euro trip adventures' can be found in [my wordpress](https://vishalupendran.wordpress.com/) blog!
 
