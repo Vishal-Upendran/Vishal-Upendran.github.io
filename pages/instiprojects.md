@@ -51,6 +51,8 @@ Overview:
 Led a team of 5 students in managing budget and materials, while performing mathematical optimization and electronic design of the product.
 Manufactured the product at less than 50% of the market price, thus potentially making it aﬀordable to public.
 
+[Detailed post here]({% post_url 2020-09-01-braille %}). 
+
 * * *
 
 ### Radio Telescope and SWAN array
