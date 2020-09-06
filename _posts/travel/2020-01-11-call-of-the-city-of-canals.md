@@ -150,10 +150,16 @@ Thus, I went ahead and did spend quite some money on the trip. Every dinner was 
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2046,"sizeSlug":"large"} -->
-
-<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/img/20190916_204258.jpg" alt="" class="wp-image-2046"><br>
-<figcaption>A beautiful ghee roast at Saravana Bhavan.</figcaption>
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/20190916_204258.jpg"  width="240" height="180"/>
+<figcaption> A beautiful ghee roast at Saravana Bhavan.</figcaption>
+</center>
 </figure>
+<!-- 
+<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-2046"><br>
+<figcaption>A beautiful ghee roast at Saravana Bhavan.</figcaption>
+</figure> -->
 
 <!-- /wp:image -->
 
