@@ -29,7 +29,7 @@ permalink: "/2020/01/11/call-of-the-city-of-canals/"
 ---
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190919_191648.jpg"  width="500" height="180"/>
+<img src="{{site.baseurl}}/img/20190919_191648.jpg"/>
 <figcaption> This pic is from the canal near Centraal, taken through a simple phone. You can imaging how scenic the place would be!</figcaption>
 </center>
 </figure>
@@ -158,7 +158,7 @@ Thus, I went ahead and did spend quite some money on the trip. Every dinner was 
 <!-- wp:image {"id":2046,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/dosa.jpg"  width="500" height="180"/>
+<img src="{{site.baseurl}}/img/dosa.jpg"/>
 <figcaption> A beautiful ghee roast at Saravana Bhavan.</figcaption>
 </center>
 </figure>
@@ -178,7 +178,7 @@ The first two days, we explored the area near the Central station (also called t
 <!-- wp:image {"align":"left","id":2047,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190917_205828.jpg"  width="500" height="180"/>
+<img src="{{site.baseurl}}/img/20190917_205828.jpg"/>
 <figcaption> Diagon alley?</figcaption>
 </center>
 </figure>
@@ -200,7 +200,7 @@ Trams are one of the best means of transportation for any tourist. They are fast
 <!-- wp:image {"id":2049,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190920_150049.jpg"  width="500" height="180"/>
+<img src="{{site.baseurl}}/img/20190920_150049.jpg"/>
 <figcaption> Flowers in the floating market!</figcaption>
 </center>
 </figure>
