@@ -23,6 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/07/11/confederatio-helvetica-not-a-font/"
+thumbnail: "{{site.url}}/img/2016_swiss/interlaken.jpg"
 ---
 Yo!
 

@@ -23,6 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/06/27/vive-la-paris/"
+thumbnail: "{{site.url}}/img/2016_paris/arcdetriomphe.jpg"
 ---
 Yep! That's right! Paris was my next trip on the "tour"!
 

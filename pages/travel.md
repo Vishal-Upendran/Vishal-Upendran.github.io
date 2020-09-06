@@ -3,10 +3,9 @@ layout: default
 title: Travel
 ---
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.categories.blog %}
+    <div>
+        <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
+        <a href="{{ post.url }}" >{{ post.title }}</a>
+    </div>
+{% endfor %}

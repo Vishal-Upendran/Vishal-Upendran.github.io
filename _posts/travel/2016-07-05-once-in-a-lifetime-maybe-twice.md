@@ -23,6 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/07/05/once-in-a-lifetime-maybe-twice/"
+thumbnail: "{{site.url}}/img/2016_berlin/berlin2.jpg"
 ---
 I have been itching to write this post- believe me, I just didn't write because I was travelling. Last week, DAAD had taken us (WISE) students to Berlin for the scholarship meet this year, promising a lot of fun, food and information about future steps for Masters and Post-grad. Though the meet itself was okay, this memory will be cherished by me for the sheer fact that I made some amazing new friends there.
 
@@ -63,7 +64,7 @@ Next day, we are taken on a boat tour of Berlin, where we play (yeah, antakshari
 </div> 
 
 
-I should mention here to please have a look at the history first, else the wall is a lame piece of Graffiti. We then go on to see the Reichstag, &nbsp;which was awesome, and then put peace in a lawn there by playing Mafia/Wolf.
+I should mention here to please have a look at the history first, else the wall is a lame piece of Graffiti. We then go on to see the Reichstag, &nbsp;which was awesome, and then put peace in a lawn there by playing Mafia/Wolf. Fun fact about the Reichstag: The dome is made of glass, and people can actually walk on top while the parliament proceeds below!
 
 Suddenly, we realize we are out of time for our trains, and the game concludes with I and Rajat departing for our trains at the Hauptbahnhoff. We tell our goodbyes, and with a tear glistening in our eyes, part our ways.
 

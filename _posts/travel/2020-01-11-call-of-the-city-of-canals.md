@@ -26,6 +26,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2020/01/11/call-of-the-city-of-canals/"
+thumbnail: "{{site.baseurl}}/img/2019_amsterdam/20190919_191648.jpg"
 ---
 <figure>
 <center>
