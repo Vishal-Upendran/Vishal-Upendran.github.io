@@ -23,7 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/06/10/this-side-of-paradise/"
-thumbnail: "{{/img/2016_prague/wp_20160604_07_31_01_pro.jpg | relative_url}}"
+thumbnail: "https://vishal-upendran.github.io/img/2016_prague/wp_20160604_07_31_01_pro.jpg"
 ---
 Found time! Gosh, it's been a hectic week, and I am gonna write about my/our experience in an entirely new country we went last Saturday (4/6/16) -Czech Republic!
 
