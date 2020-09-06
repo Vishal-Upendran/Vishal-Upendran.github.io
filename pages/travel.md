@@ -6,18 +6,20 @@ title: Travel
 {% for post in posts %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 {% if loopindex == 1 %}
-  <div>
-      <!-- <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" width="300" />
-      <a href="{{ post.url }}" >{{ post.title }}</a> -->
+  <div class="row">
+  <div class="column">
       <figure>
         <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:30%"></a>
         <figcaption> <a href="{{ post.url }}" >{{ post.title }}</a> </figcaption>
       </figure>
+  </div>
 {% else %}
+  <div class="column">
     <figure>
         <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:30%"></a>
         <figcaption> <a href="{{ post.url }}" >{{ post.title }}</a> </figcaption>
       </figure>
+  </div>
   </div>
 {% endif %}
   
