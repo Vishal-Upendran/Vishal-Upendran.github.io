@@ -34,9 +34,16 @@ So, coming back. We had gone with student euro trips to Interlaken and Bern. We 
 
 Now here, the cuppers (_insti lingo: people who screw up_)&nbsp;who were organizing the trip dropped us at the center of the town, and tells us we can go wherever we want. But wait, we wanted to go to the two lakes around the town, but here we were, at the center of the town. How do we go? We are thinking, when this lady comes upto us and asks if she could join us. Well, what's wrong with more people? (BTW, she's an Indian). So Vahini didi joins our gumbal(_tam: group of people_)&nbsp;to proceed to the lake. We roam around, find a river/stream, but no lake. Cursing the trip, we come back to the bus, to find no one managed to go to the lake. What can we do? Lol.
 
-![13592615_1134126693326631_5301897267138169081_n]({{ site.baseurl }}/img/13592615_1134126693326631_5301897267138169081_n.jpg) That's Interlaken stream in the background![/caption]
+![13592615_1134126693326631_5301897267138169081_n]({{ site.baseurl }}/img/13592615_1134126693326631_5301897267138169081_n.jpg) That's Interlaken stream in the background!
 
 We then proceed to Bern, the capital of Switzerland. We land at the UNESCO heritage area, and decide we need to see some proper places. So we decide we will first go to Einstein-haus: his house when he was staying at Bern.
+
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/Einsteinhaus.jpg"/>
+<figcaption> Me pretending to understand GR in German. </figcaption>
+</center>
+</figure>
 
 We roam around, have a look at the Govt. building with some fountains for kids to take bath, and then go around the bazaar to Einstein's house. The entrance fee was 4.5 Francs, but it was simply worth it. The place, the atmosphere, the books- wow! It was very much inspiring. We also saw a movie there showcasing Einstein's story.
 
@@ -49,6 +56,13 @@ Slowly as time flows, we find we need to pack up, and go back to our bus. As the
 * * *
 
 P.S: Forgot to add. I am quite pissed Pokemon Go wasn't released for Windows phone- as if we are like foster brothers. And people putting status like&nbsp;_"OMG!!! Caught this.... blah blah..."_. This made me photoshop a picture of the river Aare in Bern, and throw in a Lugia. People were shocked, but later realized it was fake. I just wanted to see how much observe on before commenting- proved to be a nice experiment.
+
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/lugia.jpg"/>
+<figcaption> #GottaCatchEmAll </figcaption>
+</center>
+</figure>
 
 Nevertheless, I did love&nbsp;the reaction from people. And it got some 4.1K views in 12 hrs on Quora!
 
