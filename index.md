@@ -4,6 +4,12 @@ layout: default
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9253-6093" href="https://orcid.org/0000-0002-9253-6093" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Orcid profile</a></div> 
 
+Email: uvishal@iucaa.in
+ 
+<img align="right" width="100" height="100" src="./img/me.jpg">
+
+* * *
+
 I am a graduate student at Inter University Center for Astronomy and Astrophysics (IUCAA), Pune, India working with Prof. Durgesh Tripathi. I did my undergraduation/graduation (a 5 year course) from Indian Institute of Technology-Madras (IIT Madras), India.
 
 Over the course of last couple of years, I have been trying to understand the regions of the Sun which give rise to the solar wind, and the possible acceleration locations/mechanism of the solar wind. I use Machine learning and numerical Magneto-Hydro-Dynamic simulations, along with solar observations for this study. Allied to this, I also study the possible mechanisms which keep the solar corona hot -- a.k.a, the "Coronal Heating problem".
