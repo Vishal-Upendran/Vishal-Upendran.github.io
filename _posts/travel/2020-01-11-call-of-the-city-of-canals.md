@@ -218,16 +218,24 @@ As we kept roaming around, we came across some place with lots of roadside shops
 <!-- | <img src = ".jpg" width="350"> | <img src=".jpg" width="350"> |
 |:--:|:--:|
 | |   | -->
+ <div class="row">
+  <div class="column">
+    <img src="{{site.url}}/img/20190920_161439.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%">
+  </div>
+</div> 
 
 <figure>
 
   <figure>
-  <img src="{{site.url}}/img/20190920_161439.jpg" width="350">
+  <img src="{{site.url}}/img/20190920_161439.jpg" width="350" align="left">
   <figcaption>The buddhist temple </figcaption>
   </figure>
 
   <figure>
-  <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350">
+  <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350" align="right>
   <figcaption>The Anime shop</figcaption>
   </figure>
 
