@@ -28,7 +28,7 @@ Okay, so this post has been delayed by two months, and though the draft was read
 
 * * *
 
-The story picks up after the [trip to Berlin](https://vishalupendran.wordpress.com/2016/07/05/once-in-a-lifetime-maybe-twice/), where I and my friends part ways. Berlin Hbf was very much huge, and I had to change around 3 trains to go Aarhus, where my sis lived. The entire journey can be summarized as:&nbsp;_[You're gonna suffer, but you're gonna feel happy about it](http://harrypotter.wikia.com/wiki/Tessomancy). &nbsp;_
+The story picks up after the [trip to Berlin]({% post_url 2016-07-05-once-in-a-lifetime-maybe-twice%}), where I and my friends part ways. Berlin Hbf was very much huge, and I had to change around 3 trains to go Aarhus, where my sis lived. The entire journey can be summarized as:&nbsp;_[You're gonna suffer, but you're gonna feel happy about it](http://harrypotter.wikia.com/wiki/Tessomancy). &nbsp;_
 
 From Berlin Hbf, I had to go to Hamburg Hbf, which is sort of the largest station of Germany. It was huge, and I had, but 40 min to change the train. I had to then take a regional train to Flensburg, which was&nbsp;_very tricky_. The train from Flensburg to Fredericia departs&nbsp;in 10 min of arrival of this train. And the Flensburg train was running&nbsp;_15 min late!_ Consider me, a person who arrives for events/meetings 15 min early, going just on time: and that too, for a train to another country!
 

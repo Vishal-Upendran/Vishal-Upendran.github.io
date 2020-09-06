@@ -142,7 +142,7 @@ Amsterdam is a very beautiful city, especially in summer. The skies were scenic,
 
 > If you are anyway spending on a trip, better to spend a bit more, and have a happy trip, rather than a unsatisfactory trip.
 > 
-> <cite>My Guide.</cite>
+> <cite> -- My Guide.</cite>
 
 
 Thus, I went ahead and did spend quite some money on the trip. Every dinner was at the Saravana bhavan (except for two days), where we had a fun time with the nice hotel staff and amongst ourselves.

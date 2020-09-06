@@ -36,7 +36,7 @@ To be incorporated in the Human Brain project as the control and actuation mecha
 
 [Detailed post here]({% post_url 2020-09-01-neuromorph %}). 
 
-The detailed page can be found here. Also, some of my 'Euro trip adventures' can be found in [my wordpress](https://vishalupendran.wordpress.com/) blog!
+The detailed page can be found here. Also, some of my 'Euro trip adventures' can be found in in the [Travel space here]({{site.url}}/pages/travel.html)!
 
 * * *
 
