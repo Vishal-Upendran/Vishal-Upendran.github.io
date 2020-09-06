@@ -220,23 +220,31 @@ As we kept roaming around, we came across some place with lots of roadside shops
 | |   | -->
  <div class="row">
   <div class="column">
-    <img src="{{site.url}}/img/20190920_161439.jpg" alt="Snow" style="width:100%">
+    <!-- <img src="{{site.url}}/img/20190920_161439.jpg" alt="Snow" style="width:100%"> -->
+     <figure>
+    <img src="{{site.url}}/img/20190920_161439.jpg" style="width:100%">
+    <figcaption>The buddhist temple </figcaption>
+    </figure>
   </div>
   <div class="column">
-    <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%">
+    <!-- <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%"> -->
+    <figure>
+    <img src="{{site.url}}/img/20190920_162443-1.jpg" style="width:100%">
+    <figcaption> The Anime shop</figcaption>
+    </figure>
   </div>
 </div> 
 
 <figure>
 
   <figure>
-  <img src="{{site.url}}/img/20190920_161439.jpg" width="350" align="left">
+  <img src="{{site.url}}/img/20190920_161439.jpg" width="350">
   <figcaption>The buddhist temple </figcaption>
   </figure>
 
   <figure>
-  <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350" align="right>
-  <figcaption>The Anime shop</figcaption>
+  <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350">
+  <figcaption> The Anime shop</figcaption>
   </figure>
 
 </figure>
