@@ -9,14 +9,14 @@ title: Travel
   <div class="row">
   <div class="column">
       <figure>
-        <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:30%"></a>
+        <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:100%"></a>
         <figcaption> <a href="{{ post.url }}" >{{ post.title }}</a> </figcaption>
       </figure>
   </div>
 {% else %}
   <div class="column">
     <figure>
-        <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:30%"></a>
+        <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:100%"></a>
         <figcaption> <a href="{{ post.url }}" >{{ post.title }}</a> </figcaption>
       </figure>
   </div>
