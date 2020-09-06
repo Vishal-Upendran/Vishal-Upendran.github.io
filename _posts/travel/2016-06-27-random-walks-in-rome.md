@@ -30,6 +30,13 @@ As usual, we started on Friday night, and expected to reach by Saturday morning,
 
 Doesn't matter, let's rush to the Colosseum first- our plans are well in place, after all! But, wait, what's the temperature? 35 <sup>0</sup> C. Yep, that's almost Chennai, just replace all Roman architecture with Chola/Pandya style. And what do we find here? A long queue, and Karthik is already tired (\*sigh. No one else was enthu to come, and Rajat cupped at the last moment). We somehow manage to get in, with a ticket of 12 eur, and see the Colosseum- broken structure radiating off heat, and people taking selfies everywhere. We find it is okay-ish, and move over to Palatino hill and the Roman forum. Pretty impressive , and would have loved it, if the temperature had been lower; if we had stayed for one more day, and if we had arrived a bit early.
 
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/colessium.jpg"/>
+<figcaption> The Colosseum. An interesting ruin, _ruined_ by the heat. </figcaption>
+</center>
+</figure>
+
 With some quick thinking, we plan to go to the Vatican city (Wassup, dear Pope!) (Just kidding; no offence), and find free water available near every major tourist spot. We keep walking and after having lunch ( maggie, yay!), finally find St.Peter's Basilica.
 
 <div class="row">

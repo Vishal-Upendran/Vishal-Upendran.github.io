@@ -29,7 +29,7 @@ permalink: "/2020/01/11/call-of-the-city-of-canals/"
 ---
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190919_191648.jpg"/>
+<img src="{{site.baseurl}}/img/2019_amsterdam/20190919_191648.jpg"/>
 <figcaption> This pic is from the canal near Centraal, taken through a simple phone. You can imaging how scenic the place would be!</figcaption>
 </center>
 </figure>
@@ -139,88 +139,55 @@ I was able to meet a couple of people whom I had only known through Facebook/e-m
 
 Amsterdam is a very beautiful city, especially in summer. The skies were scenic, the waters clean, and a lot of shops/gullies. Trips with explorations are generally memorable with enthu people, who do not crib about every small thing. Fortunately, most of my trips till now have been with such people (_I_ end up as the cribber!). This trip, too, had 3 other Indian guys -- two guys from CompSci doing their PhD in the US and one guy doing his PhD from Czech Republic. Funnily enough, two of us were from Tamil Nadu, one from Andhra and one from Maharashtra. The first day, after the conference, we though we would just go back, get some bread and sleep -- but for one of the guys, who coaxed us into going to a Saravana Bhavan there. I was imagining eating bread, pizza and some vegan stuff for the next week, but was amazed to find an Indian shop! At first, I looked at the cost -- 10 euros for a dosa+coffee, and the familiar stinginess came in me. However, I remembered my guide's wise words then:
 
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
 
 > If you are anyway spending on a trip, better to spend a bit more, and have a happy trip, rather than a unsatisfactory trip.
 > 
 > <cite>My Guide.</cite>
 
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
 
 Thus, I went ahead and did spend quite some money on the trip. Every dinner was at the Saravana bhavan (except for two days), where we had a fun time with the nice hotel staff and amongst ourselves.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":2046,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/dosa.jpg"/>
+<img src="{{site.baseurl}}/img/2019_amsterdam/dosa.jpg"/>
 <figcaption> A beautiful ghee roast at Saravana Bhavan.</figcaption>
 </center>
 </figure>
-<!-- 
-<figure class="wp-block-image size-large"><img src="" alt="" class="wp-image-2046"><br>
-<figcaption>A beautiful ghee roast at Saravana Bhavan.</figcaption>
-</figure> -->
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
 
 The first two days, we explored the area near the Central station (also called the Centraal Station in Dutch). There were numerous shops selling cheese, cakes, books to stuff. Just roaming around on the streets, watching the setting Sun was itself fun. There was, in particular one alley which reminded us Diagon Alley (and thus it became a standard landmark for us). While exploring, we stumbled upon the backside of the station, which has a ferry to an island (or was it just a large canal?) on the other side. It was fun on the other side, which had this huuuuge building with a swing on top. Going to top itself was some 15 euros (reminded me of Eiffel tower lol), so none of us went. We just roamed around, had some ice-cream and subwich. Thus, the first two evening were spent exploring this entire area (which we though had been explored fully).
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"left","id":2047,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190917_205828.jpg"/>
+<img src="{{site.baseurl}}/img/2019_amsterdam/20190917_205828.jpg"/>
 <figcaption> Diagon alley?</figcaption>
 </center>
 </figure>
 
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
 
 On one of the days, we had gone for an escape room. I had never been to this, so I went for one with some senior people in the field -- imagine, the people whose papers you read, are going playing with you! That was really fun, with neat riddles and puzzles, some of which were solved by sheer brute force (we hadn't realized the hints till the organizer told us later!). I was in for only one room, and a friend was in for the other room. Meanwhile, I went around looking for some souvenir from the city, and was generally exploring. Then, all of us went together looking for dinner, and ended up in some shady marketplace, where there was almost no food of liking available. However, it was more about the people than the food -- we sat there, talking about Bollywood music, the escape room, Bohemian raphsody, possible conference souvenirs, and life experience of each person. For once, I was mostly listening, and was only seeding the topic of discussion at times. It was a fun evening, and later we broke to our respective accos.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 
 Trams are one of the best means of transportation for any tourist. They are fast, but slow enough to provide a ride through the entire city. Of course, off-beaten paths are not covered in this, so that is one drawback. Initially, I was excited to take a tram travel across the city, but seeing we were going to only known places, I started spacing out (and the refree report nagging at the back of my head was getting amplified). At one point, we were at this floating market -- which was beautiful, but most shops were similar.
 
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":2049,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190920_150049.jpg"/>
+<img src="{{site.baseurl}}/img/2019_amsterdam/20190920_150049.jpg"/>
 <figcaption> Flowers in the floating market!</figcaption>
 </center>
 </figure>
-
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
 
 As we kept roaming around, we came across some place with lots of roadside shops. To our surprise, we found our auditory receptors catching some bollywood music. Turned out, there were some Afgan shops playing them (of course, to lure Indians). We had some nice juice, bought some souvenirs, and proceeded with awe at the area, which seemed like we had entered Renganathan street in Chennai. It turned out, this was a Chinatown in Amsterdam -- who would have guessed it! We went to a Buddhist temple there, which had the 1000-armed Avalokitesvara (which sort of reminded me of Shinsu-senju in Naruto), and then proceeded to an **ANIME SHOP** opposite to the temple! What are the odds of finding an Anime shop in Amsterdam?
 
 <div class="row">
   <div class="column">
      <figure>
-    <img src="{{site.url}}/img/20190920_161439.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2019_amsterdam/20190920_161439.jpg" style="width:100%">
     <figcaption style="text-align: center">The buddhist temple </figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/20190920_162443-1.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2019_amsterdam/20190920_162443-1.jpg" style="width:100%">
     <figcaption style="text-align: center"> The Anime shop</figcaption>
     </figure>
   </div>

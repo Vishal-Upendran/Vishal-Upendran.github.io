@@ -34,7 +34,7 @@ Asmita (also a **Bong** )&nbsp;introduced us to the two people- Srinivasan and P
 
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/daadmeet.jpeg"/>
+<img src="{{site.baseurl}}/img/2016_berlin/daadmeet.jpeg"/>
 <figcaption> The spontaneous sub-group from DAAD Meet! From Right: Prerna, Rajat, Srini, Balaji and Me.</figcaption>
 </center>
 </figure>
@@ -46,6 +46,22 @@ Next day, we have a very good session by DAAD on cultural training, after which 
 We continue this on the bus too, and after reaching our hotel, continue playing the game, and later switch to contact. One particular contact with "Sh" made Rajat give a cryptic hint: "_Zindagi mein generally 1 baar karte hain, kabhi-kabhi 2 baar bhi!&nbsp;_". Hindi word with such a meaning? Seems he was actually talking about&nbsp;_Shaadi&nbsp;_, or marriage.We roll down in laughter, and Rajat keeps it up the entire game! Soon, we finish off the game, and get ready for tomorrow!
 
 Next day, we are taken on a boat tour of Berlin, where we play (yeah, antakshari and contact!), and also have a look at the beautiful city. Once we pack the hotel, we (now comprising of the original group+ Kvr, Karthik, Sudeep and Ritwik) have lunch, and go to see the Berlin wall.
+
+ <div class="row">
+  <div class="column">
+     <figure>
+    <img src="{{site.url}}/img/2016_berlin/berlin1.jpg" style="width:100% height:100%">
+    <figcaption style="text-align: center">Boat trip of Berlin! This is the Museum Island</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2016_berlin/berlin2.jpg" style="width:100% height:100%" >
+    <figcaption style="text-align: center">Reichstag: The German Parliament.</figcaption>
+    </figure>
+  </div>
+</div> 
+
 
 I should mention here to please have a look at the history first, else the wall is a lame piece of Graffiti. We then go on to see the Reichstag, &nbsp;which was awesome, and then put peace in a lawn there by playing Mafia/Wolf.
 
