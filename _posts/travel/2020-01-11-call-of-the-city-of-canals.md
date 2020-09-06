@@ -4,6 +4,8 @@ title: Call of the city of canals!
 date: 2020-01-11 14:16:57.000000000 +05:30
 type: post
 parent_id: '0'
+page-header: 
+  background-image : url("{{site.url}}/img/dosa.jpg")
 published: true
 password: ''
 status: publish
@@ -170,9 +172,11 @@ The first two days, we explored the area near the Central station (also called t
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":2047,"sizeSlug":"large"} -->
-
-<figure class="alignleft size-large"><img src="%7B%7B%20site.baseurl%20%7D%7D/img/20190917_205828.jpg?w=768" alt="" class="wp-image-2047"><br>
-<figcaption>Diagon alley?</figcaption>
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/20190917_205828.jpg?w=768"  width="240" height="180"/>
+<figcaption> Diagon alley?</figcaption>
+</center>
 </figure>
 
 <!-- /wp:image -->
@@ -190,9 +194,11 @@ Trams are one of the best means of transportation for any tourist. They are fast
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":2049,"sizeSlug":"large"} -->
-
-<figure class="wp-block-image size-large"><img src="%7B%7B%20site.baseurl%20%7D%7D/img/20190920_150049.jpg?w=1024" alt="" class="wp-image-2049"><br>
-<figcaption>Flowers in the floating market!</figcaption>
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/20190920_150049.jpg?w=1024"  width="240" height="180"/>
+<figcaption> Flowers in the floating market!</figcaption>
+</center>
 </figure>
 
 <!-- /wp:image -->
@@ -205,17 +211,9 @@ As we kept roaming around, we came across some place with lots of roadside shops
 
 <!-- wp:group {"align":"full"} -->
 
-<!-- wp:gallery {"align":"full"} --><figure class="wp-block-gallery alignfull columns-2 is-cropped">
-<ul class="blocks-gallery-grid">
-<li class="blocks-gallery-item">
-<figure><img src="%7B%7B%20site.baseurl%20%7D%7D/img/20190920_161439.jpg?w=1024" data-id="2050" class="wp-image-2050"></figure>
-</li>
-<li class="blocks-gallery-item">
-<figure><img src="%7B%7B%20site.baseurl%20%7D%7D/img/20190920_162443-1.jpg?w=1024" alt="" data-id="2052" data-link="https://vishalupendran.wordpress.com/20190920_162443-1/" class="wp-image-2052"></figure>
-</li>
-</ul>
-<figcaption class="blocks-gallery-caption">The buddhist temple (left) and the Anime shop (right).</figcaption>
-</figure>
+| <img src = "{{site.url}}/img/20190920_161439.jpg?w=1024" width="350"> | <img src="{{site.url}}/img/20190920_162443-1.jpg?w=1024" width="350"> |
+|:--:|:--:|
+| The buddhist temple |  The Anime shop |
 
 <!-- /wp:gallery -->
 
