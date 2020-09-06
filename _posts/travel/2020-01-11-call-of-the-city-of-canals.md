@@ -213,17 +213,15 @@ As we kept roaming around, we came across some place with lots of roadside shops
 
 <div class="row">
   <div class="column">
-    <!-- <img src="{{site.url}}/img/20190920_161439.jpg" alt="Snow" style="width:100%"> -->
      <figure>
     <img src="{{site.url}}/img/20190920_161439.jpg" style="width:100%">
-    <figcaption text-align="center">The buddhist temple </figcaption>
+    <figcaption style="text-align: center">The buddhist temple </figcaption>
     </figure>
   </div>
   <div class="column">
-    <!-- <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%"> -->
     <figure>
     <img src="{{site.url}}/img/20190920_162443-1.jpg" style="width:100%">
-    <figcaption text-align="center"> The Anime shop</figcaption>
+    <figcaption style="text-align: center"> The Anime shop</figcaption>
     </figure>
   </div>
 </div> 
