@@ -40,7 +40,7 @@ Pretty impressive! Now we find the correct bus to go to Eiffel. However, we reac
 <div class="row">
   <div class="column">
      <figure>
-    <img src="{{site.url}}/img/2016_paris/wp_20160619_12_38_47_pro.jpeg" style="width:100%">
+    <img src="{{site.url}}/img/2016_paris/wp_20160619_12_38_47_pro.jpg" style="width:100%">
     <figcaption style="text-align: center"> Yeah, that's a horrible pic of mine, but sigh!</figcaption>
     </figure>
   </div>

@@ -33,7 +33,7 @@ Doesn't matter, let's rush to the Colosseum first- our plans are well in place, 
 <figure>
 <center>
 <img src="{{site.baseurl}}/img/2016_rome/colessium.jpg"/>
-<figcaption> The Colosseum. An interesting ruin, _ruined_ by the heat. </figcaption>
+<figcaption> The Colosseum. An interesting ruin, <i> ruined </i>  by the heat. </figcaption>
 </center>
 </figure>
 
@@ -98,7 +98,7 @@ The path to Munich is worth going though. Italian, Austrian and Bavarian alps is
 </center>
 </figure>
 
-And the pizza. Worth it. Totally. Never even think of missing it- you will definitely&nbsp;_miss&nbsp;_it.
+And the pizza. Worth it. Totally. Never even think of missing it- you will *definitely* miss it.
 
 And yes, the Vatican. Was freaking awesome, though we would place the tour through Alps on top :P
 
