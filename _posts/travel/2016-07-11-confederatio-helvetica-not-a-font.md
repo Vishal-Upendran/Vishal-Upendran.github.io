@@ -37,13 +37,13 @@ Now here, the cuppers (_insti lingo: people who screw up_)&nbsp;who were organiz
  <div class="row">
   <div class="column">
      <figure>
-    <img src="{{site.url}}/img/2016_swiss/13592615_1134126693326631_5301897267138169081_n.jpg" style="width:100% height:100%">
+    <img src="{{site.url}}/img/2016_swiss/13592615_1134126693326631_5301897267138169081_n.jpg" style="height:100%">
     <figcaption style="text-align: center">That's Interlaken stream in the background!</figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2016_swiss/interlaken.jpg" style="width:100% height:100%" >
+    <img src="{{site.url}}/img/2016_swiss/interlaken.jpg" style="height:100%" >
     <figcaption style="text-align: center">Cannot seem to get over Interlaken!!!</figcaption>
     </figure>
   </div>

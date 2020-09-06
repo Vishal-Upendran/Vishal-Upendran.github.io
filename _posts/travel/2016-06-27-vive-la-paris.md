@@ -37,20 +37,15 @@ The first work was obviously to find a McD. And voila! We find one right at the 
 
 Pretty impressive! Now we find the correct bus to go to Eiffel. However, we reach the tower after quite a lot of walking and getting lost. Once we reach the tower, we find this:
 
-<div class="row">
-  <div class="column">
-     <figure>
-    <img src="{{site.url}}/img/2016_paris/wp_20160619_12_38_47_pro.jpg" style="width:100%">
-    <figcaption style="text-align: center"> Yeah, that's a horrible pic of mine, but sigh!</figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-    <img src="{{site.url}}/img/2016_paris/eiffel.jpg" style="width:100%">
-    <figcaption style="text-align: center"> View from underneath the Eiffel</figcaption>
-    </figure>
-  </div>
-</div> 
+
+<figure>
+<img src="{{site.url}}/img/2016_paris/wp_20160619_12_38_47_pro.jpg" style="width:100%">
+<figcaption style="text-align: center"> Yeah, that's a horrible pic of mine, but sigh!</figcaption>
+</figure>
+<figure>
+<img src="{{site.url}}/img/2016_paris/eiffel.jpg" style="width:100%">
+<figcaption style="text-align: center"> View from underneath the Eiffel</figcaption>
+</figure>
 
 Not very impressive, right? That's what I felt. I still have a tinge of regret of not going there are night, when there are some excellent light shows. Nevertheless, we take a trip up to the top (12 Euro, I must say its&nbsp; **not&nbsp;** worth it; a 5 euro trip to second station is enough), and have a look at the entire city of Paris from 450m! I must say here that the security at the tower is pretty strict- they threw away our water, our ketchup and we barely came back from throwing away our curd rice (Yogurt rice, for the&nbsp;_angrezi junta_). We just roam around a bit, at the shops, where I buy a souvenir for a friend \*If the correct junta read, they would know who it is :P\*&nbsp;&nbsp;(anniversary it seems; Lol, that's gonna haunt him for ages to come :P ), and then proceed to go to &nbsp;the Louvre museum.
 
@@ -59,7 +54,7 @@ Louvre is one of the largest museum in the world, and houses the world famous my
 <div class="row">
   <div class="column">
      <figure>
-    <img src="{{site.url}}/img/2016_paris/louvre1.jpeg" style="width:100%">
+    <img src="{{site.url}}/img/2016_paris/louvre1.jpg" style="width:100%">
     <figcaption style="text-align: center"> The Louvre, from outside</figcaption>
     </figure>
   </div>
