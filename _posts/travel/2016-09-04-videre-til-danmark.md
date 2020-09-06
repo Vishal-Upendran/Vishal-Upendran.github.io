@@ -47,12 +47,12 @@ The place lived upto its expectations- not many people, but not desolate either.
 <figure>
 <center>
   <figure>
-  <img src="{{site.url}}/img/aarhus_sq.jpg">
+  <img src="{{site.url}}/img/aarhus_sq.jpeg" width="350">
   <figcaption>The main square/shopping area of Aarhus!</figcaption>
   </figure>
 
   <figure>
-  <img src="{{site.url}}/img/aarhus_beach.jpg">
+  <img src="{{site.url}}/img/aarhus_beach.jpg" width="350">
   <figcaption>View from the beach. Many of the rich people owned kayaks!</figcaption>
 </figure>
 </center>

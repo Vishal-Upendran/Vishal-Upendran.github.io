@@ -222,12 +222,12 @@ As we kept roaming around, we came across some place with lots of roadside shops
 <figure>
 
   <figure>
-  <img src="{{site.url}}/img/20190920_161439.jpg">
+  <img src="{{site.url}}/img/20190920_161439.jpg" width="350">
   <figcaption>The buddhist temple </figcaption>
   </figure>
 
   <figure>
-  <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Description of picture 2">
+  <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350">
   <figcaption>The Anime shop</figcaption>
   </figure>
 
