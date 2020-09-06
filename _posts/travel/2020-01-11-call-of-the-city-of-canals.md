@@ -215,9 +215,23 @@ As we kept roaming around, we came across some place with lots of roadside shops
 
 <!-- wp:group {"align":"full"} -->
 
-| <img src = "{{site.url}}/img/20190920_161439.jpg" width="350"> | <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350"> |
+<!-- | <img src = ".jpg" width="350"> | <img src=".jpg" width="350"> |
 |:--:|:--:|
-| The buddhist temple |  The Anime shop |
+| |   | -->
+
+<figure>
+
+  <figure>
+  <img src="{{site.url}}/img/20190920_161439.jpg">
+  <figcaption>The buddhist temple </figcaption>
+  </figure>
+
+  <figure>
+  <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Description of picture 2">
+  <figcaption>The Anime shop</figcaption>
+  </figure>
+
+</figure>
 
 <!-- /wp:gallery -->
 
