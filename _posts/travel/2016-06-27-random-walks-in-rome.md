@@ -32,7 +32,7 @@ Doesn't matter, let's rush to the Colosseum first- our plans are well in place, 
 
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/colessium.jpg"/>
+<img src="{{site.baseurl}}/img/2016_rome/colessium.jpg"/>
 <figcaption> The Colosseum. An interesting ruin, _ruined_ by the heat. </figcaption>
 </center>
 </figure>
@@ -42,13 +42,13 @@ With some quick thinking, we plan to go to the Vatican city (Wassup, dear Pope!)
 <div class="row">
   <div class="column">
      <figure>
-    <img src="{{site.url}}/img/wp_20160625_14_57_10_pro.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2016_rome/wp_20160625_14_57_10_pro.jpg" style="width:100%">
     <figcaption style="text-align: center"> Outside St. Peters </figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/stpeters_outside.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2016_rome/stpeters_outside.jpg" style="width:100%">
     <figcaption style="text-align: center"> St. Peters as seen from the gates of Vatican</figcaption>
     </figure>
   </div>
@@ -61,7 +61,7 @@ Pantheon was a Roman temple, which was later converted into a church. I wanted t
 
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/wp_20160625_17_08_42_pro.jpg"/>
+<img src="{{site.baseurl}}/img/2016_rome/wp_20160625_17_08_42_pro.jpg"/>
 <figcaption> The Pantheon </figcaption>
 </center>
 </figure>
@@ -78,7 +78,7 @@ We: Peace! Give us for 2 euro each!
 
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/img-20160626-wa0002.jpg"/>
+<img src="{{site.baseurl}}/img/2016_rome/img-20160626-wa0002.jpg"/>
 <figcaption> Yum! The Pizza! </figcaption>
 </center>
 </figure>
@@ -91,7 +91,12 @@ One thing that I must mention is Rome left a weird impression on me- Graffiti gr
 
 The path to Munich is worth going though. Italian, Austrian and Bavarian alps is a feast to the eyes. We got the front seats, and they were worth it. There were huge mountains, with castles on top, but they all looked like some animation from Disney. One side there were mountains, and the other side some river was flowing- it was almost like a paradise. How would you react if your bus is actually going through the clouds?
 
-![WP_20160626_07_15_48_Pro]({{ site.baseurl }}/img/wp_20160626_07_15_48_pro.jpg) The world does look like a toy world!
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/2016_rome/wp_20160626_07_15_48_pro.jpg"/>
+<figcaption> The world does look like a toy world! </figcaption>
+</center>
+</figure>
 
 And the pizza. Worth it. Totally. Never even think of missing it- you will definitely&nbsp;_miss&nbsp;_it.
 
