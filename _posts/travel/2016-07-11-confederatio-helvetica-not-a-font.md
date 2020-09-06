@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Confederatio Helvetica
 date: 2016-07-11 19:17:23.000000000 +05:30
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Call of the city of canals!
 date: 2020-01-11 14:16:57.000000000 +05:30
 type: post
