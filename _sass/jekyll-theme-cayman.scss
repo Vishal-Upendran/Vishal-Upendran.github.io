@@ -26,7 +26,7 @@
 }
 
 :root {
-  --background-image: url("https://vishal-upendran.github.io/img/eclipse2.jpg");
+  --background-image: rgba(255, 255, 255, 0.7);
 }
 
 body {
@@ -113,7 +113,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: var(--background-image);
+  background-image: var(--background-image,url("https://vishal-upendran.github.io/img/eclipse2.jpg"));
   //linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
