@@ -5,7 +5,7 @@ date: 2020-01-11 14:16:57.000000000 +05:30
 type: post
 parent_id: '0'
 page-header: 
-  background-image : url("{{site.url}}/img/dosa.jpg")
+  background-image : "{{site.url}}/img/dosa.jpg"
 published: true
 password: ''
 status: publish
@@ -174,7 +174,7 @@ The first two days, we explored the area near the Central station (also called t
 <!-- wp:image {"align":"left","id":2047,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190917_205828.jpg?w=768"  width="240" height="180"/>
+<img src="{{site.baseurl}}/img/20190917_205828.jpg"  width="240" height="180"/>
 <figcaption> Diagon alley?</figcaption>
 </center>
 </figure>
@@ -196,7 +196,7 @@ Trams are one of the best means of transportation for any tourist. They are fast
 <!-- wp:image {"id":2049,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190920_150049.jpg?w=1024"  width="240" height="180"/>
+<img src="{{site.baseurl}}/img/20190920_150049.jpg"  width="240" height="180"/>
 <figcaption> Flowers in the floating market!</figcaption>
 </center>
 </figure>
@@ -211,7 +211,7 @@ As we kept roaming around, we came across some place with lots of roadside shops
 
 <!-- wp:group {"align":"full"} -->
 
-| <img src = "{{site.url}}/img/20190920_161439.jpg?w=1024" width="350"> | <img src="{{site.url}}/img/20190920_162443-1.jpg?w=1024" width="350"> |
+| <img src = "{{site.url}}/img/20190920_161439.jpg" width="350"> | <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350"> |
 |:--:|:--:|
 | The buddhist temple |  The Anime shop |
 
