@@ -211,49 +211,22 @@ Trams are one of the best means of transportation for any tourist. They are fast
 
 As we kept roaming around, we came across some place with lots of roadside shops. To our surprise, we found our auditory receptors catching some bollywood music. Turned out, there were some Afgan shops playing them (of course, to lure Indians). We had some nice juice, bought some souvenirs, and proceeded with awe at the area, which seemed like we had entered Renganathan street in Chennai. It turned out, this was a Chinatown in Amsterdam -- who would have guessed it! We went to a Buddhist temple there, which had the 1000-armed Avalokitesvara (which sort of reminded me of Shinsu-senju in Naruto), and then proceeded to an **ANIME SHOP** opposite to the temple! What are the odds of finding an Anime shop in Amsterdam?
 
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"align":"full"} -->
-
-<!-- | <img src = ".jpg" width="350"> | <img src=".jpg" width="350"> |
-|:--:|:--:|
-| |   | -->
- <div class="row">
+<div class="row">
   <div class="column">
     <!-- <img src="{{site.url}}/img/20190920_161439.jpg" alt="Snow" style="width:100%"> -->
      <figure>
     <img src="{{site.url}}/img/20190920_161439.jpg" style="width:100%">
-    <figcaption>The buddhist temple </figcaption>
+    <figcaption text-align="center">The buddhist temple </figcaption>
     </figure>
   </div>
   <div class="column">
     <!-- <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%"> -->
     <figure>
     <img src="{{site.url}}/img/20190920_162443-1.jpg" style="width:100%">
-    <figcaption> The Anime shop</figcaption>
+    <figcaption text-align="center"> The Anime shop</figcaption>
     </figure>
   </div>
 </div> 
-
-<figure>
-
-  <figure>
-  <img src="{{site.url}}/img/20190920_161439.jpg" width="350">
-  <figcaption>The buddhist temple </figcaption>
-  </figure>
-
-  <figure>
-  <img src="{{site.url}}/img/20190920_162443-1.jpg" width="350">
-  <figcaption> The Anime shop</figcaption>
-  </figure>
-
-</figure>
-
-<!-- /wp:gallery -->
-
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
 
 The Anime shop was - for lack of adjectives - mind blowing. There were sooo many action figures, manga, tees, keychains - you name the merch. The tees were quite expensive (25ish eur) and hoodies too(35ish). Brilliant design, but quite expensive. In the end, I got a Minato figurine to join my Charmander in my office. 10 eur, but a bargain! We then found a quaint pizza shop, and had some good pizza (finally!). After a nice snack, we proceeded 'onwards', only to come out near a church. It was beautiful, but seemed quite modern. We proceeded, and sort of entered a very shade place -- apparently, it was a red light place in the city. We hurried through (there was a sick feeling in all of us, for some reason), and came out of some gully which would have made anyone feel at Richie street in Chennai -- but for the white folks and canals. There was chaos, but things seemed to proceed and not stagnate. I was getting a Rome-like feeling from this place, and we just savored the place. As the Sun started moving towards the other side, we made our way out to a final snack at the Saravana bhavan, and then proceeded back to our accos.
 
