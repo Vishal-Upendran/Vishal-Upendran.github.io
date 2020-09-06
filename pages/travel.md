@@ -2,8 +2,8 @@
 layout: default
 title: Travel
 ---
-
-{% for post in site.posts %}
+{% assign posts = site.categories.travel %}
+{% for post in posts %}
 {% assign loopindex = forloop.index | modulo: 2 %}
 {% if loopindex == 1 %}
   <div>
