@@ -80,7 +80,7 @@ We eat the most delicious pizza of our life. I have never eaten such a pizza bef
 
 * * *
 
-One thing that I must mention is Rome had a pretty bad impression on us- Graffiti graffiti everywhere, and living in Munich has somehow increased our sense of cleanliness. Dunno what's gonna happen in hostel in the semester!
+One thing that I must mention is Rome left a weird impression on me- Graffiti graffiti everywhere, for starters, and living in Munich has somehow increased our sense of cleanliness. Dunno what's gonna happen in hostel in the semester!
 
 The path to Munich is worth going though. Italian, Austrian and Bavarian alps is a feast to the eyes. We got the front seats, and they were worth it. There were huge mountains, with castles on top, but they all looked like some animation from Disney. One side there were mountains, and the other side some river was flowing- it was almost like a paradise. How would you react if your bus is actually going through the clouds?
 

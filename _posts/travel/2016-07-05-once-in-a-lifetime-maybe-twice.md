@@ -35,7 +35,7 @@ Asmita (also a **Bong** )&nbsp;introduced us to the two people- Srinivasan and P
 <figure>
 <center>
 <img src="{{site.baseurl}}/img/daadmeet.jpeg"/>
-<figcaption> The spontaneous sub-group from DAAD Meet!</figcaption>
+<figcaption> The spontaneous sub-group from DAAD Meet! From Right: Prerna, Rajat, Srini, Balaji and Me.</figcaption>
 </center>
 </figure>
 
