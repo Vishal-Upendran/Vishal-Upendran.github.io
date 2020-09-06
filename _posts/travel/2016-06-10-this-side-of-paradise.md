@@ -59,7 +59,7 @@ We decide to go to the castle, and take a tram up. We reach the castle "gardens"
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2016_paris/prague_castle.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2016_prague/prague_castle.jpg" style="width:100%">
     <figcaption style="text-align: center"> View of Prague castle from the bottom!</figcaption>
     </figure>
   </div>
