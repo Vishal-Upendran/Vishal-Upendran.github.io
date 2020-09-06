@@ -18,7 +18,7 @@ title: Travel
         <a href="{{ post.url }}" > <img src="{{post.thumbnail}}" style="width:30%"></a>
         <figcaption> <a href="{{ post.url }}" >{{ post.title }}</a> </figcaption>
       </figure>
-
-{% endif %}
   </div>
+{% endif %}
+  
 {% endfor %}
