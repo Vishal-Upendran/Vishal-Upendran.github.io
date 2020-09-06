@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Confederatio Helvetica
 date: 2016-07-11 19:17:23.000000000 +05:30
 type: post
@@ -34,7 +34,7 @@ So, coming back. We had gone with student euro trips to Interlaken and Bern. We 
 
 Now here, the cuppers (_insti lingo: people who screw up_)&nbsp;who were organizing the trip dropped us at the center of the town, and tells us we can go wherever we want. But wait, we wanted to go to the two lakes around the town, but here we were, at the center of the town. How do we go? We are thinking, when this lady comes upto us and asks if she could join us. Well, what's wrong with more people? (BTW, she's an Indian). So Vahini didi joins our gumbal(_tam: group of people_)&nbsp;to proceed to the lake. We roam around, find a river/stream, but no lake. Cursing the trip, we come back to the bus, to find no one managed to go to the lake. What can we do? Lol.
 
-[caption id="attachment\_586" align="alignnone" width="960"] ![13592615_1134126693326631_5301897267138169081_n]({{ site.baseurl }}/img/13592615_1134126693326631_5301897267138169081_n.jpg) That's Interlaken stream in the background![/caption]
+![13592615_1134126693326631_5301897267138169081_n]({{ site.baseurl }}/img/13592615_1134126693326631_5301897267138169081_n.jpg) That's Interlaken stream in the background![/caption]
 
 We then proceed to Bern, the capital of Switzerland. We land at the UNESCO heritage area, and decide we need to see some proper places. So we decide we will first go to Einstein-haus: his house when he was staying at Bern.
 

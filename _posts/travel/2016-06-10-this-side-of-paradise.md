@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: This side of Paradise!
 date: 2016-06-10 18:43:14.000000000 +05:30
 type: post

@@ -32,13 +32,13 @@ Doesn't matter, let's rush to the Colosseum first- our plans are well in place, 
 
 With some quick thinking, we plan to go to the Vatican city (Wassup, dear Pope!) (Just kidding; no offence), and find free water available near every major tourist spot. We keep walking and after having lunch ( maggie, yay!), finally find St.Peter's Basilica.
 
-[caption id="attachment\_459" align="alignnone" width="4208"] ![WP_20160625_14_57_10_Pro]({{ site.baseurl }}/img/wp_20160625_14_57_10_pro.jpg) Outside St. Peters[/caption]
+[caption id="attachment\_459" align="alignnone" width="4208"] ![WP_20160625_14_57_10_Pro]({{ site.baseurl }}/img/wp_20160625_14_57_10_pro.jpg) Outside St. Peters
 
 Now, I would like to take a moment to tell this: We were impressed by Notre dame, and couldn't think of anything better. But we were mistaken- St. Peters was not just good; it was outstanding. I can't think of words to describe the sheer size and architecture of the place! We roam around the basilica for a long time, gazing at the awesome sculptures and the grandeur of the place. Apparently, Vatican also has a post office! I was thoroughly impressed the neatness and maintenance of the place. Christians, regardless of their&nbsp;faults, do one thing very well- they maintain their buildings, at least churches, very well. After more than an hour of&nbsp;_awestruckness_, we leave Vatican to go to the Pantheon.
 
 Pantheon was a Roman temple, which was later converted into a church. I wanted to see the panels, etc kept for Roman gods, which we studied (no points for guesses! :P) in History of Art- but sadly, some event was going on inside, and we would have to wait another hour for going in. We packed, kept walking, and then, we got a brainwave.
 
-[caption id="attachment\_461" align="alignnone" width="4208"] ![WP_20160625_17_08_42_Pro]({{ site.baseurl }}/img/wp_20160625_17_08_42_pro.jpg) The Pantheon[/caption]
+![WP_20160625_17_08_42_Pro]({{ site.baseurl }}/img/wp_20160625_17_08_42_pro.jpg) The Pantheon
 
 We boarded a random tram (Prague-ish), and set out to find a [Saravana Bhavan](http://www.saravanabhavan.com/). Sounds crazy, but we did manage to find an Indian locality. We&nbsp;were thinking of eating something Indian, but then we find this Pizzeria. Think: what is the probability of eating Italian pizza again with respect to eating Masala dosa again? So, we go in.
 
@@ -56,7 +56,7 @@ Lady (kindly: shows a piece of pizza): This 2 euro.
 
 We: Peace! Give us for 2 euro each!
 
-[caption id="attachment\_458" align="alignnone" width="720"] ![IMG-20160626-WA0002]({{ site.baseurl }}/img/img-20160626-wa0002.jpg) Yum! The Pizza![/caption]
+![IMG-20160626-WA0002]({{ site.baseurl }}/img/img-20160626-wa0002.jpg) Yum! The Pizza!
 
 We eat the most delicious pizza of our life. I have never eaten such a pizza before- the sauce, the cheese, everything was just perfect. We (read I) thank her, and leave for the bus station, for our way back to Munich.
 
@@ -66,7 +66,7 @@ One thing that I must mention is Rome had a pretty bad impression on us- Graffit
 
 The path to Munich is worth going though. Italian, Austrian and Bavarian alps is a feast to the eyes. We got the front seats, and they were worth it. There were huge mountains, with castles on top, but they all looked like some animation from Disney. One side there were mountains, and the other side some river was flowing- it was almost like a paradise. How would you react if your bus is actually going through the clouds?
 
-[caption id="attachment\_462" align="alignnone" width="4208"] ![WP_20160626_07_15_48_Pro]({{ site.baseurl }}/img/wp_20160626_07_15_48_pro.jpg) The world does look like a toy world![/caption]
+![WP_20160626_07_15_48_Pro]({{ site.baseurl }}/img/wp_20160626_07_15_48_pro.jpg) The world does look like a toy world!
 
 And the pizza. Worth it. Totally. Never even think of missing it- you will definitely&nbsp;_miss&nbsp;_it.
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Videre til Danmark
 date: 2016-09-04 14:56:45.000000000 +05:30
 type: post

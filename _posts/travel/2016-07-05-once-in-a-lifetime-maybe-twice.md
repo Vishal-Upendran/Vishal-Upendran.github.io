@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Once in a lifetime, Maybe twice
 date: 2016-07-05 21:20:06.000000000 +05:30
 type: post
@@ -26,7 +26,7 @@ permalink: "/2016/07/05/once-in-a-lifetime-maybe-twice/"
 ---
 I have been itching to write this post- believe me, I just didn't write because I was travelling. Last week, DAAD had taken us (WISE) students to Berlin for the scholarship meet this year, promising a lot of fun, food and information about future steps for Masters and Post-grad. Though the meet itself was okay, this memory will be cherished by me for the sheer fact that I made some amazing new friends there.
 
-I, Koushik and Jaydeep (not to mention the random continuous talk on Pratirupa) started on Wednesday morning on the I/CE to Berlin, reaching at around 2:00 p.m. We meet up with the Bong ( **Insti Lingo** : Bengali) junta from Dresden, and proceed to the hotel, NH Alexanderplatz together, where we are not allowed to check in, as the hotel does not have the rooms 'ready'.&nbsp;We wait- Koushik with Dresden junta and I with some friends of Jaydeep, when I hear my name being called- funny, whom did I know among these people?
+I, Koushik and Jaydeep started on Wednesday morning on the I/CE to Berlin, reaching at around 2:00 p.m. We meet up with the Bong ( **Insti Lingo** : Bengali) junta from Dresden, and proceed to the hotel, NH Alexanderplatz together, where we are not allowed to check in, as the hotel does not have the rooms 'ready'.&nbsp;We wait- Koushik with Dresden junta and I with some friends of Jaydeep, when I hear my name being called- funny, whom did I know among these people?
 
 At long last, I see him- Rajat Dandekar. The idiot was going to come to Munich, but packed coming for some random reason, and the same goes for the trip to Rome. He has this guilty smile on him face, but then, who would be angry after meeting a good friend after a long time? We check into the hotel, and find that we have been allotted partners already- mine was some guy named Parth Tiwary. We part ways for now, and check into our respective rooms, to find one of the guys whom I was talking to downstairs&nbsp;_is&nbsp;_Parth! So far so good :) I dump in my stuff for I hadn't had anything to eat in the afternoon, Rajat being in the same boat. So we, along with our mates from insti- Joel and Gautam- proceed to some restaurant for lunch. After lunch, we come back to find our senior from insti- Asmita! And she has arrived with two other people, whom at first we didn't bother to talk to- but as luck would have it, they would turn out to be great friends later!
 
