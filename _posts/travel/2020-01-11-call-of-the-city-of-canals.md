@@ -4,8 +4,6 @@ title: Call of the city of canals!
 date: 2020-01-11 14:16:57.000000000 +05:30
 type: post
 parent_id: '0'
-page-header: 
-  background-image : "{{site.url}}/img/dosa.jpg"
 published: true
 password: ''
 status: publish
@@ -29,6 +27,12 @@ author:
   last_name: Upendran
 permalink: "/2020/01/11/call-of-the-city-of-canals/"
 ---
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/20190919_191648.jpg"  width="500" height="180"/>
+<figcaption> This pic is from the canal near Centraal, taken through a simple phone. You can imaging how scenic the place would be!</figcaption>
+</center>
+</figure>
 <!-- wp:paragraph -->
 
 Travel is a great way to make friends - especially since one experiences all sides of the person they are traveling with. One gets to know which situations a person can handle well, and which they cannot. And the most fun is when you just, _impromptu_, happen to meet a bunch of like-minded people. This essentially summarized my first trip abroad for work!
@@ -154,7 +158,7 @@ Thus, I went ahead and did spend quite some money on the trip. Every dinner was 
 <!-- wp:image {"id":2046,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/dosa.jpg"  width="240" height="180"/>
+<img src="{{site.baseurl}}/img/dosa.jpg"  width="500" height="180"/>
 <figcaption> A beautiful ghee roast at Saravana Bhavan.</figcaption>
 </center>
 </figure>
@@ -174,7 +178,7 @@ The first two days, we explored the area near the Central station (also called t
 <!-- wp:image {"align":"left","id":2047,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190917_205828.jpg"  width="240" height="180"/>
+<img src="{{site.baseurl}}/img/20190917_205828.jpg"  width="500" height="180"/>
 <figcaption> Diagon alley?</figcaption>
 </center>
 </figure>
@@ -196,7 +200,7 @@ Trams are one of the best means of transportation for any tourist. They are fast
 <!-- wp:image {"id":2049,"sizeSlug":"large"} -->
 <figure>
 <center>
-<img src="{{site.baseurl}}/img/20190920_150049.jpg"  width="240" height="180"/>
+<img src="{{site.baseurl}}/img/20190920_150049.jpg"  width="500" height="180"/>
 <figcaption> Flowers in the floating market!</figcaption>
 </center>
 </figure>
@@ -285,12 +289,6 @@ In hindsight, I probably learnt a lot of life lessons on this trip:
 <!-- wp:paragraph -->
 
 Hope you had a nice time reading to my musings!
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-P.S: The cover pic is from the canal near Centraal, taken through a simple phone. You can imaging how scenic the place would be!
 
 <!-- /wp:paragraph -->
 
