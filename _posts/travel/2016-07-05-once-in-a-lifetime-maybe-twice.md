@@ -32,6 +32,13 @@ At long last, I see him- Rajat Dandekar. The idiot was going to come to Munich, 
 
 Asmita (also a **Bong** )&nbsp;introduced us to the two people- Srinivasan and Prerna, both from IIT- Gandhinagar, Civil engg. Apparently, Srinivasan (ob a&nbsp; **Tam- Insti Lingo:&nbsp;** Tamil), has been dying to talk to some person in tamil, and voila! He finds me(us). We talk for quite some time- apparently, he was from Chennai, and knows everyone in insti- KG, Akshay, Dhur, Pradeep, and some other people like Abhay. So far so good! We then, after the "soft opening", have our dinner together, when Asmita comes up with an idea of playing some game at night. Well, since many other people were going as low as to go on pub crawl, etc, we think hard, and decide upon a game of 'Contact'.
 
+<figure>
+<center>
+<img src="{{site.baseurl}}/img/daadmeet.jpeg"/>
+<figcaption> The spontaneous sub-group from DAAD Meet!</figcaption>
+</center>
+</figure>
+
 Contact basically involves one person thinking of a specific word, and only revealing the first letter of the word. The other people- who will have to guess the word- throw clues with the word starting with this letter for everyone, except the "guesser" to guess. If two people think they are thinking of the same word, they say 'Contact', and reveal the word at a countdown of 5. If the "guesser" is unable to guess the word within this time, then he/she will have to reveal the next letter of the word. But if the 'Contact' is broken, or the people get different words, then the game moves on. The game continues till the whole word is guessed.&nbsp;We play this game for 4 hours straight, before parting off to our rooms for sleep.
 
 Next day, we have a very good session by DAAD on cultural training, after which we go to the Indian Embassy for dinner. After dinner, we (Me, Rajat, Sreeni, Prerna, Asmita and later Balaji) shamelessly play antakshari (singing game: pliss to google). Passers-by notice us, smirking and giving all sorts of expressions, but hey, Indian embassy== we are in India! This was the best experience, with shameless singing after a sumptuous meal!
