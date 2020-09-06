@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Random walks in Rome
 date: 2016-06-27 20:48:37.000000000 +05:30
 type: post
