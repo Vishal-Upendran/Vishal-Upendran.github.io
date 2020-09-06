@@ -151,7 +151,7 @@ Thus, I went ahead and did spend quite some money on the trip. Every dinner was 
 
 <!-- wp:image {"id":2046,"sizeSlug":"large"} -->
 
-<figure class="wp-block-image size-large"><img src="%7B%7B%20site.baseurl%20%7D%7D/img/20190916_204258.jpg?w=1024" alt="" class="wp-image-2046"><br>
+<figure class="wp-block-image size-large"><img src="{{site.baseurl}}/img/20190916_204258.jpg" alt="" class="wp-image-2046"><br>
 <figcaption>A beautiful ghee roast at Saravana Bhavan.</figcaption>
 </figure>
 
