@@ -23,20 +23,20 @@ Short explanation:
 
 The Golgi tendon organ is the 'force sensor' of the body. It is attached between the muscles and the tendons, and gives out 'spikes' corresponding to stretch in its length. As all physical systems, it has a 'threshold' value, below which it cannot sense any force, and a saturation value, above which it cannot expand any more and sense any incremental change in force. The system is almost linear, and it would perform something like this:
 
-|![]({{site.url}}/img/neuro2.jpg)|
+|![]({{site.url}}/img/nst_tum/neuro2.jpg)|
 |:--:|
 |Fig 2: Golgi tendon Organ response.|
 
 The muscle spindle acts as the 'actuator' of the muscle system. However, the force is not the only measurement the Spinal chord needs to make a decision on the spike rate needed for the spindle. The spindle itself gives two kinds of response: Ia and II, or Primary and Secondary afferent actions. How are they different? Well, it relates to an inbuilt feedback in the spindle itself- Ia afferent neurons provide spike rate given length and velocity of spindle, while the II afferent provide spike rate given length. The Type-II relate to the rest length of the muscle spindle, while Type-Ia relates to increments and changes in the muscle spindle. Together with the Golgi Organ which provides Force information ( the net system is non-linear!), the spinal chord makes an informed decision on spike rate for the spindle.
 
-| <img src = "{{site.url}}/img/neuro_ia.jpg" width="350"> | <img src="{{site.url}}/img/neuro_ii.jpg" width="350"> |
+| <img src = "{{site.url}}/img/nst_tum/neuro_ia.jpg" width="350"> | <img src="{{site.url}}/img/nst_tum/neuro_ii.jpg" width="350"> |
 |:--:|:--:|
 | Fig 3: Ia response to ramp-step | Fig 4: II response to ramp-step |
 
 The muscle spindle's force output is controlled only by the input spike rate from efferent neurons. A single spike generates a 'Muscle twitch', and a combination of such twitches gives rise to a general muscle response. The response (obviously) has a saturation, and the simulation of model looks like this:
 
 
-| <img src = "{{site.url}}/img/neuro_low.jpg" width="350"> | <img src="{{site.url}}/img/neuro_high.jpg" width="350"> |
+| <img src = "{{site.url}}/img/nst_tum/neuro_low.jpg" width="350"> | <img src="{{site.url}}/img/nst_tum/neuro_high.jpg" width="350"> |
 |:--:|:--:|
 | Fig 5: Low frequency spike rate response. | Fig 6: Muscle tetanus, or high frequency rate. Max muscle force. |
 
@@ -48,7 +48,7 @@ Anyway, that was my part of work in the project, which I hope will be integrated
 
 The project report which we were intending to be the start for our publication can be found here: [TUM_FinalReport](https://mediatum.ub.tum.de/doc/1324772/file.pdf).
 
-|![]({{site.url}}/img/neuro1.jpg)|
+|![]({{site.url}}/img/nst_tum/neuro1.jpg)|
 |:--:|
 |Fig 7: Muscle model: A flow chart|
 
