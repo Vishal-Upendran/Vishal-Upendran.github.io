@@ -47,14 +47,13 @@ The place lived upto its expectations- not many people, but not desolate either.
  <div class="row">
   <div class="column">
      <figure>
-    <img src="{{site.url}}/img/aarhus_sq.jpeg" style="width:100%">
+    <img src="{{site.url}}/img/2016_denmark/aarhus_sq.jpeg" style="width:100%">
     <figcaption style="text-align: center">The main square/shopping area of Aarhus!</figcaption>
     </figure>
   </div>
   <div class="column">
-    <!-- <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%"> -->
     <figure>
-    <img src="{{site.url}}/img/aarhus_beach.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2016_denmark/aarhus_beach.jpg" style="width:100%">
     <figcaption style="text-align: center"> View from the beach. Many of the rich people owned kayaks!</figcaption>
     </figure>
   </div>
@@ -63,7 +62,7 @@ The place lived upto its expectations- not many people, but not desolate either.
 Then, we head over to the [Aarhus University](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjbs_-H-vXOAhUJso8KHWb_CysQFggeMAA&url=http%3A%2F%2Fwww.au.dk%2Fen%2F&usg=AFQjCNEil9hAlcXoaCepZRg5R2w_P5rtqA&sig2=5U34vsWT9BPdX6i5J3iIeQ), where&nbsp;Athimbs&nbsp;worked. He showed us around the campus (which was very much awesome, better than the TU Garching campus!), and took us to his department/lab. I felt the power of funding &nbsp;in the sophisticated instruments used for the research, and was mentally comparing them to the ones back here at insti-&nbsp;_what all could we do if we have these!_ And after a great tour, we pack our day.
 
 <figure>
-<img src="{{site.url}}/img/aarhus_uni.jpg" style="width:100%">
+<img src="{{site.url}}/img/2016_denmark/aarhus_uni.jpg" style="width:100%">
 <figcaption style="text-align: center">Aarhus univeristy hostels. No comparison to good old Mandak!</figcaption>
 </figure>
 
@@ -73,7 +72,7 @@ The next day was equally good. We visited the [Moessgard museum](https://www.goo
 
 <figure>
 <center>
-<img src="{{site.url}}/img/mossegard.jpg">
+<img src="{{site.url}}/img/2016_denmark/mossegard.jpg">
 <figcaption>View from the top of Mossegard museum</figcaption>
 </center>
 </figure>

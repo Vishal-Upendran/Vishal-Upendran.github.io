@@ -42,7 +42,6 @@ Now here, the cuppers (_insti lingo: people who screw up_)&nbsp;who were organiz
     </figure>
   </div>
   <div class="column">
-    <!-- <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%"> -->
     <figure>
     <img src="{{site.url}}/img/2016_swiss/interlaken.jpg" style="width:100%">
     <figcaption style="text-align: center">Cannot seem to get over Interlaken!!!</figcaption>
@@ -60,7 +59,6 @@ We then proceed to Bern, the capital of Switzerland. We land at the UNESCO herit
     </figure>
   </div>
   <div class="column">
-    <!-- <img src="{{site.url}}/img/20190920_162443-1.jpg" alt="Forest" style="width:100%"> -->
     <figure>
     <img src="{{site.url}}/img/2016_swiss/maths.jpg" style="width:100%">
     <figcaption style="text-align: center">That's actually SR, not GR :P</figcaption>
