@@ -9,7 +9,7 @@ password: ''
 status: publish
 categories:
 - Experiences
-- Travel
+- Trips
 - Conferences
 tags:
 - amsterdam

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graduate School
+title: Research work
 description: 
 categories: iucaaprojs
 ---
