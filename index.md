@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9253-6093" href="https://orcid.org/0000-0002-9253-6093" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Orcid profile</a></div> 
-
+<figure>
+<center>
+<img src="{{site.url}}/img/me.jpg">
+<figcaption>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9253-6093" href="https://orcid.org/0000-0002-9253-6093" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Orcid profile</a></div> ,
 Email: uvishal@iucaa.in
- 
-<img align="right" width="100" height="100" src="./img/me.jpg">
+</figcaption>
+</center>
+</figure>
 
 * * *
 
