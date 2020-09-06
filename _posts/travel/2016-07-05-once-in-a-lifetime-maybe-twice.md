@@ -23,7 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/07/05/once-in-a-lifetime-maybe-twice/"
-thumbnail: "{{site.url}}/img/2016_berlin/berlin2.jpg"
+thumbnail: "https://vishal-upendran.github.io/img/2016_berlin/berlin2.jpg"
 ---
 I have been itching to write this post- believe me, I just didn't write because I was travelling. Last week, DAAD had taken us (WISE) students to Berlin for the scholarship meet this year, promising a lot of fun, food and information about future steps for Masters and Post-grad. Though the meet itself was okay, this memory will be cherished by me for the sheer fact that I made some amazing new friends there.
 

@@ -23,7 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/06/27/random-walks-in-rome/"
-thumbnail: "{{site.baseurl}}/img/2016_rome/colessium.jpg"
+thumbnail: "https://vishal-upendran.github.io/img/2016_rome/colessium.jpg"
 ---
 Yo! Sigh, the 'surprise!' element has started to run off. Last week ( 25th of June), we went to Rome. Yep, the same Rome of the Cesar, Brutus et al.
 

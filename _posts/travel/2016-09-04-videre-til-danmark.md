@@ -23,7 +23,7 @@ author:
   first_name: Vishal
   last_name: Upendran
 permalink: "/2016/09/04/videre-til-danmark/"
-thumbnail: "{{site.url}}/img/2016_denmark/aarhus_beach.jpg"
+thumbnail: "https://vishal-upendran.github.io/img/2016_denmark/aarhus_beach.jpg"
 ---
 Okay, so this post has been delayed by two months, and though the draft was ready long back, I couldn't post it (there are many, in fact, which haven't been posted in a long time). So here I am, talking about Denmark.
 
