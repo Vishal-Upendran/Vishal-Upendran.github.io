@@ -13,6 +13,8 @@
     {% endif %}
     <meta charset="UTF-8">
 
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#0f82d4">
@@ -42,8 +44,9 @@
             {{count_words | divided_by: 5}} 
         {% endcapture %} 
 
-        {{count_words}} Words in Post.
-        Reading Time:  ~ {{time_words | divided_by: 60}} min. or so.
+        <i class="small material-icons">menu</i> {{count_words}} Words |  <i class="small material-icons">access_time</i> :  ~ {{time_words | divided_by: 60}} min.
+
+
         {{ content }}
 
       <footer class="site-footer">
