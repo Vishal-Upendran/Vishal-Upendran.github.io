@@ -1,7 +1,7 @@
 ---
 title: Realistic Muscle models for Real-time neuro-morphic actuation
 subtitle: 
-layout: default
+layout: blog_post
 img: img/neuro1.jpg
 thumbnail: img/neuro1.jpg
 categories: instiprojs

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog_post
 title: Vive la Paris!
 date: 2016-06-27 19:58:16.000000000 +05:30
 type: post

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog_post
 title: Once in a lifetime, Maybe twice
 date: 2016-07-05 21:20:06.000000000 +05:30
 type: post
