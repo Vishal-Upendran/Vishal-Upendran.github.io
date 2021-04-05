@@ -5,7 +5,7 @@ description: Complete CV and experience
 category: instiprojs
 ---
 
-You may find a part of my CV -- Education, Awards, services and conferences below. Rest are made available [here](https://drive.google.com/file/d/17OwrohcDHa7z3-3AeTQ0qo3zTvhurDdU/view?usp=sharing).
+You may find a part of my CV -- Education, Awards, services and conferences below. Rest are made available [here](https://drive.google.com/file/d/17OwrohcDHa7z3-3AeTQ0qo3zTvhurDdU/view?usp=sharing). A comprehensive profile may also be found on [Linkedin](https://www.linkedin.com/in/vishal-upendran1995).
 
 
 ### Education
