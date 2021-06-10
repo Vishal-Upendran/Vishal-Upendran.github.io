@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Misc
+title: A collection of various things
 ---
 
 This page comprises of a collection of numerous miscellaneous articles/tutorials that are not quite "Blog posts". 
