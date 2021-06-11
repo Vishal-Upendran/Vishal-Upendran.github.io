@@ -29,6 +29,9 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 ### Services
 - Reviewer for articles in the journal Solar Physics.
 
+### Invited Talks
+-  May 2021 @ Physikalisch-Meteorologische Observatorium Davos/World Radiation Center (PMOD/WRC) On the Impulsive Heating of Quiet Solar Corona.
+
 ### Conferences
 
 - March 2021: Advances in observations and modelling of solar magnetism and variability.
