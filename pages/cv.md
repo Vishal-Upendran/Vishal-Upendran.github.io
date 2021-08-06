@@ -34,6 +34,8 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 
 ### Conferences
 
+- Sep 2021: 16th European Solar Physics Meeting.
+    - Poster: Inferring impulsive heating of quiet solar corona using machine learning.
 - March 2021: Advances in observations and modelling of solar magnetism and variability.
     - Poster: Chromospheric dynamics in Coronal holes and Quiet Sun
 - Feb 2021: Astronomical Society of India (ASI) meeting 2021.
