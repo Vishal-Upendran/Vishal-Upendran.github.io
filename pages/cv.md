@@ -26,6 +26,9 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 
 - **DAAD-WISE scholar 2016**: One among the 170 students selected from 3000 students across all over India to perform researchat a premier institute in Germany for 80 days.
 
+### Press releases
+- August 2021: Keeping Tabs on the Quiet Sun in AAS Nova by Susanna Kohler: https://aasnova.org/2021/08/09/featured-image-keeping-tabs-on-the-quiet-sun/. 
+
 ### Services
 - Reviewer for articles in the journal Solar Physics.
 
