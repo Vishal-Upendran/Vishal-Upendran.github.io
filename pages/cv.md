@@ -18,6 +18,7 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 |:-:|:-:|:-:|
 
 ### Awards and scholarships
+- **Nvidia Hardware grant**: Principal Investigator for the project "Solar wind source region estimation using deep learning", through an award of Nvidia A100 GPU from the Nvidia Hardware grant 2021.
 - **FDL 2020**: Offered a fully-funded summer internship program at NASA-SETI Frontier Development Lab (FDL) 2020.
 
 - Offered **Junior Research Fellowship** by Council of Scientific and Industrial Research University Grants Commission, India for pursuing research in India.
