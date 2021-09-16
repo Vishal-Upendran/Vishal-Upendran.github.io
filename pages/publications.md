@@ -7,7 +7,9 @@ categories: iucaaprojs
 
 You may find below a list of publications, and (in some cases) associated pages which simply the work for the common reader.
 
-Interested person may also check my [Google scholar acount](https://scholar.google.co.in/citations?user=whROWPoAAAAJ&hl=en). 
+Interested person may also check my [ADS library page](https://ui.adsabs.harvard.edu/public-libraries/8OTQLTKTQJ61YPMhZ8dIjA). Note that Google scholar may not be completely upto date - ADS usually it.
+
+- **Properties of the C II 1334 $\AA$ line in Coronal Hole and Quiet Sun as observed by IRIS**: Vishal Upendran and Durgesh Tripathi 2021, accepted for publication in ApJ. [Arxiv](https://arxiv.org/abs/2109.04287).
 
 - **On the Impulsive Heating of Quiet Solar Corona**:  Vishal Upendran and Durgesh Tripathi 2021, ApJ 916 59. [Paper](https://iopscience.iop.org/article/10.3847/1538-4357/abf65a#artAbst). [Arxiv](https://arxiv.org/abs/2103.16824). [15-min Talk @ ASI2021](https://youtu.be/Wx-4yrBfljM?t=2549). 
 
