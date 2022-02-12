@@ -18,7 +18,10 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 |:-:|:-:|:-:|
 
 ### Awards and scholarships
+- **ISRO-RESPOND grant 2022**: Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
+
 - **Nvidia Hardware grant**: Principal Investigator for the project "Solar wind source region estimation using deep learning", through an award of Nvidia A100 GPU from the Nvidia Hardware grant 2021.
+
 - **FDL 2020**: Offered a fully-funded summer internship program at NASA-SETI Frontier Development Lab (FDL) 2020.
 
 - Offered **Junior Research Fellowship** by Council of Scientific and Industrial Research University Grants Commission, India for pursuing research in India.
@@ -34,7 +37,13 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 - Reviewer for articles in the journal Solar Physics.
 
 ### Invited Talks
--  May 2021 @ Physikalisch-Meteorologische Observatorium Davos/World Radiation Center (PMOD/WRC) On the Impulsive Heating of Quiet Solar Corona.
+-  Dec 2021 @ European Solar Physics Online Seminars (ESPOS): "On the formation solar wind and switchbacks, and Quiet Sun heating".
+-  Dec 2021 @ IUCAA Seminar series: "On the formation solar wind and switchbacks, and Quiet Sun heating".
+-  May 2021 @ Physikalisch-Meteorologische Observatorium Davos/World Radiation Center (PMOD/WRC): "On the Impulsive Heating of Quiet Solar Corona".
+
+### Public Talks
+-  Fev 2021 @ Athaang astronomy club, IISER Tirupati: The exhalations and snores of the slumbering Sun.
+-  Aug 2021 @ Fergusson college, Pune, India: From Sun to Earth using A.I
 
 ### Conferences
 
