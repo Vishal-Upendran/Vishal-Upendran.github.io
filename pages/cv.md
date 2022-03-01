@@ -18,7 +18,7 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 |:-:|:-:|:-:|
 
 ### Awards and scholarships
-- **ISRO-RESPOND grant 2022**: Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
+- **ISRO-RESPOND grant 2021**: Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
 
 - **Nvidia Hardware grant**: Principal Investigator for the project "Solar wind source region estimation using deep learning", through an award of Nvidia A100 GPU from the Nvidia Hardware grant 2021.
 
