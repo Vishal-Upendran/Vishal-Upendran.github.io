@@ -18,6 +18,11 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 |:-:|:-:|:-:|
 
 ### Awards and scholarships
+
+- **IAU Grant**: Awarded the International Astronomical Union grant of 2000 Euros for giving two contributed talks at the IAU General Assembly 2022 from August 2- 12 in Busan, South Korea.
+
+- **Outstading Student Presentation Award**: Awarded the OSPA at the AGU: Fall meeting in 2021 for talk titled "Solar wind signatures in the chromosphere". 
+
 - **ISRO-RESPOND grant 2021**: Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
 
 - **Nvidia Hardware grant**: Principal Investigator for the project "Solar wind source region estimation using deep learning", through an award of Nvidia A100 GPU from the Nvidia Hardware grant 2021.
@@ -34,19 +39,42 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 - August 2021: Keeping Tabs on the Quiet Sun in AAS Nova by Susanna Kohler: https://aasnova.org/2021/08/09/featured-image-keeping-tabs-on-the-quiet-sun/. 
 
 ### Services
+- Reviewer for articles in the journal AGU: Spaceweather.
 - Reviewer for articles in the journal Solar Physics.
 
 ### Invited Talks
+- June 2022 @ SPARC workshop: Machine Learning in Solar Physics and Space Weather at IISER Kolkata: "Accelerating space weather forecasts with deep learning and interpretable A.I".
+- June 2022 @ The Geospace Environment Modeling (GEM) summer workshop 2022 at Hawaii (Online): "Tutorial on using spherical harmonics with data".
+- April 2022 @ Robert Bosch Center for Data Science and Artificial Intelligence, IIT - Madras: "Accelerating astronomy workflow with deep learning and interpretable A.I".
+- April 2022 @ Dept. of Physics, IIT - Madras: "On the origin of solar wind and solar coronal heating".
 -  Dec 2021 @ European Solar Physics Online Seminars (ESPOS): "On the formation solar wind and switchbacks, and Quiet Sun heating".
 -  Dec 2021 @ IUCAA Seminar series: "On the formation solar wind and switchbacks, and Quiet Sun heating".
 -  May 2021 @ Physikalisch-Meteorologische Observatorium Davos/World Radiation Center (PMOD/WRC): "On the Impulsive Heating of Quiet Solar Corona".
 
 ### Public Talks
--  Fev 2021 @ Athaang astronomy club, IISER Tirupati: The exhalations and snores of the slumbering Sun.
+-  Feb 2022 @ IUCAA National Science Day celebrations: The many ways to know our Universe.
+-  Feb 2022 @ Athaang astronomy club, IISER Tirupati: The exhalations and snores of the slumbering Sun.
 -  Aug 2021 @ Fergusson college, Pune, India: From Sun to Earth using A.I
 
 ### Conferences
-
+- Aug 2022: XXXI IAU General assembly: Symposium on “The Era of Multi Messenger Solar Physics”.
+    - **Talk**: Exploring the formation solar wind, switchbacks and Quiet Sun heating.
+- Aug 2022: XXXI IAU General assembly: Symposium on “Machine Learning in Astronomy”.
+    - **Talk**: Accelerating astronomy workflow with deep learning and interpretable A.I
+- June 2022: Loops 10 workshop.
+    - **Talk**: Inferring quiet Sun heating using machine learning.
+- June 2022: Loops 10 workshop.
+    - Poster: Coronal heating in QS and Coronal holes.
+- Mar 2022: Astronomical Society of India meeting 2022.
+    - Poster: Chromospheric and transition region dynamics in coronal holes and quiet sun.
+- Dec 2021: American Geophysical Union (AGU) meeting 2021.
+    - Poster: Machine learning inference of statistical signatures of heating events.
+- Dec 2021: American Geophysical Union (AGU) meeting 2021.
+    - **Talk**: Solar wind signatures in the chromosphere
+- Oct 2021: Hinode-14/IRIS-11 meeting.
+    - **Talk**: Chromospheric and transition region dynamics in coronal holes and quiet sun
+- Oct 2021: Solar Orbiter ISWG on Solar wind sources and connection.
+    - **Talk**: Solar wind prediction using deep learning
 - Sep 2021: 16th European Solar Physics Meeting.
     - Poster: Inferring impulsive heating of quiet solar corona using machine learning.
 - March 2021: Advances in observations and modelling of solar magnetism and variability.
