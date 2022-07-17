@@ -110,7 +110,7 @@ This water can be drunk as it is, and was extremely sweet and cold. We cleansed 
 <div class="column">
   <div class="row">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp6_1.jpg" style="height:75%">
+    <img src="{{site.url}}/img/2022_himalayas/dp6_1.jpg" style="width:100%">
     <figcaption style="text-align: center"> Purushottam Raghunath temple </figcaption>
     </figure>
   </div>
@@ -137,7 +137,7 @@ And so I called up our _didi_. She asked for our details to get things arranged.
 <div class="column">
   <div class="row">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp7_1.jpg" style="height:75%">
+    <img src="{{site.url}}/img/2022_himalayas/dp7_1.jpg" style="width:100%">
     <figcaption style="text-align: center"> View of the sangam from our room </figcaption>
     </figure>
   </div>
