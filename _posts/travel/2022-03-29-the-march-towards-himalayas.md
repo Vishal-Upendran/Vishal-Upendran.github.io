@@ -22,7 +22,7 @@ author:
   display_name: Vishal
   first_name: Vishal
   last_name: Upendran
-thumbnail: "https://vishal-upendran.github.io/img/2022_haridwar/h5.jpg"
+thumbnail: "https://vishal-upendran.github.io/img/2022_himalayas/dp10.jpg"
 ---
 The ASI meeting at IIT Roorkee was coming to a close, with some amazing talks & posters, and great interactions with new people. The stage was getting set for folks to go back to their homes and start working. But I had a very different idea.
 
@@ -175,12 +175,6 @@ We woke up early and took the bus to Karnaprayag. This place seemed a bit more c
 </div> 
 
 We changed another bus and made our way to Joshimath. We sat near the driver, getting the best views. This road was still not well done, but atleast there was _some_ road. But we slept off while the fourth prayag -- Nandaprayag -- came. Too bad, though we would see it on our way back.
-
-<figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp10.jpg" style="width:100%">
-    <figcaption style="text-align: center"> On the way to Auli </figcaption>
-</figure>
-
 
 It took us almost 3 p.m. to reach Joshimath. After a quick tea, we had to get to Auli. A cable car goes till Auli, but it seems like the accommodation _didi_ got for us was quite far from the other end of the cable car. So we got a very friendly cab driver to take us to Auli -- a driver named Dillu Negi. Dillu was an extremely free spirited guy, and seemed to know everyone in the town, and on the way to Auli. However, he told us that we had a reservation at a _very_ posh place. We did not quite have much money, and were on a budget. But ah well, we just enjoy the flowers on the apple trees and the snow capped mountains for now, and think about possible issues later!
 
