@@ -72,13 +72,13 @@ With our numerous bags, we walked down, crossing a narrow bridge across the rive
 <div class="row">
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp3.jpg" style="width:125%">
+    <img src="{{site.url}}/img/2022_himalayas/dp3.jpg" style="width:100%">
     <figcaption style="text-align: center"> Sangam: Bridge view </figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp4.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2022_himalayas/dp4.jpg" style="width:75%">
     <figcaption style="text-align: center"> Sangam: Close view</figcaption>
     </figure>
   </div>
@@ -86,7 +86,105 @@ With our numerous bags, we walked down, crossing a narrow bridge across the rive
 
 The blue coloured river is the Bhagirathi, while the brown one is Alakananda. As they meet, they don't merge immediately. Rather, they slosh against each other, forming small vortex-like features which remind us of Kelvin-Helmholtz instabililty. Then, some many hundred meters down, they finally unite to give rise to the might Ganga. 
 
-We kept our luggage, 
+We kept our luggage at the viewpoint, and went to take a dip at the confluence. At the confluence, the rivers were _very_ fast, and quite scary. That particular day was a new moon day, so some of the locals were performing a ceremony dedicated to the mother Goddess, while others were performing their monthly rites to the deceased ancestors. It was amazing to see how these were _exactly_ the things we in the deep south would perform on the banks of our rivers. Such is the wonder of India!
+
+As we kept marvelling at the wonderous confluence, I collect about 3 litres of the pristine water from the confluence. Back home, it would be used in rituals, and is generally distributed amongst family, friends and neighbours. So Ihad to take enough for many people. The amazing thing though, was that we got a clear view of the Alakandanda. Even clearer was the water we collected -- so clean, you wouldn't expect this water from a river apparently so muddy:
+
+<div class="row">
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp5_1.jpg" style="width:100%">
+    <figcaption style="text-align: center"> The Alakananda river </figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp5_2.jpg" style="width:100%">
+    <figcaption style="text-align: center"> Clear, cold water from the confluence</figcaption>
+    </figure>
+  </div>
+</div> 
+
+This water can be drunk as it is, and was extremely sweet and cold. We cleansed ourselves, and then made our way back up. From the viewpoint, I showed my family -- right from my parents to grandparents to my aunts -- the wonderful divie view. It still blows my mind that the road was super nice, and we get high-speed internet at this quite remote location in an non-tourist season. However, on top of that hill was the temple of Purushottama (best among men) Raghunath (another name of Lord Ram). We made our way to the top of the temple, and worshiped the Lord Rama. 
+
+<div class="row">
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp6_1.jpg" style="width:100%">
+    <figcaption style="text-align: center"> Purushottam Raghunath temple </figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp6_2.jpg" style="width:100%">
+    <figcaption style="text-align: center"> Tamil pasurams put up at the temple</figcaption>
+    </figure>
+  </div>
+</div> 
+
+I was very excited to find a lot of writing in Tamil -- imagine travelling more than 2000 kms from home, cutting across languages and cultures, to find my mother tongue! Turns out, many of the tamil philosphers and saints had sung exhalted praises of this temple more than 500 years back, and had composed poems in its honour. We sat down at the temple, losing ourselves in the calm, just absorbing our surroundings.
+
+Some time later, we started to make our way back down -- we had to get to Rudraprayag, the second confluence of Alakananda. We got our luggage, made our way back to the soda stall, and caught a bus to Rudraprayag, the confluence of Alakananda and Mandakini.
+
+## Rudraprayag
+
+The journey to Rudraprayag was quite uneventful -- good for us, we didn't want to expend energy on any drama. We reached Rudraprayag by 4 p.m, and went about finding a cheap accommodation. We wanted a good view, and preffered something like a dorm. So we got a GMVN (Garhwal Mandal Vikas Nigam) dorm room (contains 7 beds) for Rs. 300 per person. And we got a view of the Mandakini-Alakananda _sangam_ -- sweet!
+
+All this while, thoughts were weighing me down. Bikram wanted to turn back, since he was not particularly into temples, and wanted to get back near Delhi to see the Taj Mahal. At that very moment, a friend (one whom I knew only online!) checked my numerous Facebook statusses and enquired what I was doing. After a bit of chat, she called up her _sister_, who works at Joshimath. Seems like one _can_ visit Badrinath when it is not open at our own risk with permissions. The temple would still be closed, and there would be **no one** in those mountains. And so we got the contact of our _saviour didi_. I was in, so was Anuj. I asked Bikram if he _still_ wanted to see the Taj -- obviously, that was not happening. Who would pass on visiting the pristine mountains of the Himalayas during a time _without_ any people creating ruckus? 
+
+And so I called up our _didi_. She asked for our details to get things arranged. Then, she asked us on our plans to stay -- which we didn't have, because we were now travelling on a whim. So I asked her if there were a good, cheap place to stay. _Didi_ put this plan to us: we spend the night at Rudraprayag like we aimed to, then stay the next day the ski area named Auli, and finally stay the night after at Joshimath. All of us concurred, and _didi_ took care of our accommodation -- no charges! We were amazed at her generosity, and proceeded to take a dip at the confluence of Alakananda and Mandakini.
+
+<div class="row">
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp7_1.jpg" style="width:100%">
+    <figcaption style="text-align: center"> View of the sangam from our room </figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp7_2.jpg" style="width:100%">
+    <figcaption style="text-align: center"> The view of horizon from the sangam</figcaption>
+    </figure>
+  </div>
+</div> 
+
+This confluence was simply amazing. There was almost no crowd -- just a small temple on the top dedicated to the river Ganga. We went down, and dipped our feet into the rivers -- a chill ran up our bodies as a calm ran down our minds. It was a needed respite for my super achy knees after getting hit in the Ganges. 
+
+The place was profoundly peaceful, and all of us took to the ways we channel our inner self. Anuj sat down on a rock meditating, Bikram sat gazing at the wonderous surroundings, while I sang slowly to the wonderful rivers and their sources. These songs and poems, written by the sages of yore to these very rivers eons ago, chose me to be their carrier to meet these rivers once again. I totally lost myself in the gushing mix of rivers and the lyric hailing them. After about an hour or so, we went to the temple to witness yet another Ganga arti, this time at a small scale. After another hour or so, we went uphill to have food.
+
+The food we had on the way is some of the best food I have ever eaten. We had really good parathas, tea, pani puris, full meal, curd and lassi. After a hearty meal, we went to bed, extremely exhausted, but looking forward to the next day.
+
+## Onwards to Joshimath
+
+We woke up early and took the bus to Karnaprayag. This place seemed a bit more commercial than the other prayag, but we did see the confluence of Alakananda with Pindar river. 
+
+<div class="row">
+  <div class="column">
+    <figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp8.jpg" style="width:100%">
+        <figcaption style="text-align: center"> Sangam of Alakananda with Pindar </figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+        <img src="{{site.url}}/img/2022_himalayas/dp9.jpg" style="width:100%">
+        <figcaption style="text-align: center"> Road to Joshimath </figcaption>
+    </figure>
+    </div>
+</div> 
+
+We changed another bus and made our way to Joshimath. We sat near the driver, getting the best views. This road was still not well done, but atleast there was _some_ road. But we slept off while the fourth prayag -- Nandaprayag -- came. Too bad, though we would see it on our way back.
+
+<figure>
+    <img src="{{site.url}}/img/2022_himalayas/dp10.jpg" style="width:100%">
+    <figcaption style="text-align: center"> On the way to Auli </figcaption>
+</figure>
+
+
+It took us almost 3 p.m. to reach Joshimath. After a quick tea, we had to get to Auli. A cable car goes till Auli, but it seems like the accommodation _didi_ got for us was quite far from the other end of the cable car. So we got a very friendly cab driver to take us to Auli -- a driver named Dillu Negi. Dillu was an extremely free spirited guy, and seemed to know everyone in the town, and on the way to Auli. However, he told us that we had a reservation at a _very_ posh place. We did not quite have much money, and were on a budget. But ah well, we just enjoy the flowers on the apple trees and the snow capped mountains for now, and think about possible issues later!
+
+
 
 &nbsp;
 
