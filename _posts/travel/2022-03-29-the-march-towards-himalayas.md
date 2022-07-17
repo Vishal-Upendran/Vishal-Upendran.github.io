@@ -26,7 +26,7 @@ thumbnail: "https://vishal-upendran.github.io/img/2022_haridwar/h5.jpg"
 ---
 The ASI meeting at IIT Roorkee was coming to a close, with some amazing talks & posters, and great interactions with new people. The stage was getting set for folks to go back to their homes and start working. But I had a very different idea.
 
-Roorkee, and [Haridwar some distance away]({{site.url}}/travel/2022-03-27-emerging-from-the-pandemic.html) form the start of a general pilgrimage tour for the hindus called the "Chota char dham yatra", or the smaller tour of four holy sites. The four holy sites are four mountain peaks in the Himalayas adorned with beautiful temples and marking the start of beautiful rivers -- Badrinath (or Badrikashrama, where Alakananda starts), Kedarnath (where Mandakini starts), Gangotri (where Bhagirathi starts) and Yamunotri (where Yamuna starts). Ever since the ASI announced of the conference at Roorkee, I wanted to perform this small tour. However, I didn't have enough time -- we have got work to do -- so I wanted to atleast visit Badrinath, where the God Badri Vishal (yep, I am named after this God) resides. The temple is flanked by two mountains named Nara and Narayana, which get completely covered with snow during the winters, preventing any travel to the temple.
+Roorkee, and [Haridwar some distance away]({{site.url}}/travel/2022/03/27/emerging-from-the-pandemic.html) form the start of a general pilgrimage tour for the hindus called the "Chota char dham yatra", or the smaller tour of four holy sites. The four holy sites are four mountain peaks in the Himalayas adorned with beautiful temples and marking the start of beautiful rivers -- Badrinath (or Badrikashrama, where Alakananda starts), Kedarnath (where Mandakini starts), Gangotri (where Bhagirathi starts) and Yamunotri (where Yamuna starts). Ever since the ASI announced of the conference at Roorkee, I wanted to perform this small tour. However, I didn't have enough time -- we have got work to do -- so I wanted to atleast visit Badrinath, where the God Badri Vishal (yep, I am named after this God) resides. The temple is flanked by two mountains named Nara and Narayana, which get completely covered with snow during the winters, preventing any travel to the temple.
 
 I thought "summer" would mean "after Equinox", so the temple would be open. But to my dismay, I found out that all the four temples would actually open more than a month later. I was very much heartbroken at the foil of my plans. Nevertheless, I planned to go till the closest possible base camp -- called Joshimath. Joshimath is named after a monastry established by the great Adi Shankaracharya, who revised, cleaned and revived Hinduism in the 5th century or so. He is credited with establishing the philosophy of Advaita, commentaries on texts like Bhagavad Gita, and composition of poems like Bhaja Govindam. Shankaracharya established the monastry at Joshimath, and is then said to have trekked to Badrinath. During the winter months where one cannot travel to the mountain, the prayers may be performed at the temple in Joshimath. So at the very least, I could visit the various sites within Joshimath, if not go to Badri. I coerced a trekker-philosopher-gravitational wave researcher friend of mine named Anuj from IUCAA into joining me for this journey -- it would be difficult to go alone!
 
@@ -45,7 +45,7 @@ We woke up at 4 a.m and got ready to look for a bus to Haridwar. Unfortunately, 
 The route to Devaprayag was terribly beautiful. Intially we coasted through Rishikesh, and then entered the winding mountain roads. These roads were super nice -- almost two-lane highways. But the twists and turns were horrible. I thought I would throw up -- many people did -- but luckily I had taken just one glass of tea since morning, so nothing can come out! We stopped at a place for breakfast, and the view from the balcony just blew my mind off:
 
 <figure>
-<img src="{{site.url}}/img/2022_himayalas/dp1_1.jpg" style="width:100%">
+<img src="{{site.url}}/img/2022_himalayas/dp1_1.jpg" style="width:100%">
 <figcaption style="text-align: center"> View from a mountaintop restaurant </figcaption>
 </figure>
 
@@ -53,13 +53,13 @@ Some piping hot maggie and tea were the perfect breakfast I needed. As we kept m
 <div class="row">
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himayalas/dp1_2.jpg" style="width:50%">
+    <img src="{{site.url}}/img/2022_himalayas/dp1_2.jpg" style="width:50%">
     <figcaption style="text-align: center"> Devaprayag: Bus view </figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himayalas/dp2.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2022_himalayas/dp2.jpg" style="width:100%">
     <figcaption style="text-align: center"> Devaprayag: Street view</figcaption>
     </figure>
   </div>
@@ -72,13 +72,13 @@ With our numerous bags, we walked down, crossing a narrow bridge across the rive
 <div class="row">
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himayalas/dp3.jpg" style="width:50%">
+    <img src="{{site.url}}/img/2022_himalayas/dp3.jpg" style="width:50%">
     <figcaption style="text-align: center"> Sangam: Bridge view </figcaption>
     </figure>
   </div>
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himayalas/dp4.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2022_himalayas/dp4.jpg" style="width:100%">
     <figcaption style="text-align: center"> Sangam: Close view</figcaption>
     </figure>
   </div>
