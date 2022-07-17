@@ -107,14 +107,14 @@ As we kept marvelling at the wonderous confluence, I collect about 3 litres of t
 
 This water can be drunk as it is, and was extremely sweet and cold. We cleansed ourselves, and then made our way back up. From the viewpoint, I showed my family -- right from my parents to grandparents to my aunts -- the wonderful divie view. It still blows my mind that the road was super nice, and we get high-speed internet at this quite remote location in an non-tourist season. However, on top of that hill was the temple of Purushottama (best among men) Raghunath (another name of Lord Ram). We made our way to the top of the temple, and worshiped the Lord Rama. 
 
-<div class="row">
-  <div class="column">
+<div class="column">
+  <div class="row">
     <figure>
     <img src="{{site.url}}/img/2022_himalayas/dp6_1.jpg" style="width:100%">
     <figcaption style="text-align: center"> Purushottam Raghunath temple </figcaption>
     </figure>
   </div>
-  <div class="column">
+  <div class="row">
     <figure>
     <img src="{{site.url}}/img/2022_himalayas/dp6_2.jpg" style="width:100%">
     <figcaption style="text-align: center"> Tamil pasurams put up at the temple</figcaption>
@@ -134,14 +134,14 @@ All this while, thoughts were weighing me down. Bikram wanted to turn back, sinc
 
 And so I called up our _didi_. She asked for our details to get things arranged. Then, she asked us on our plans to stay -- which we didn't have, because we were now travelling on a whim. So I asked her if there were a good, cheap place to stay. _Didi_ put this plan to us: we spend the night at Rudraprayag like we aimed to, then stay the next day the ski area named Auli, and finally stay the night after at Joshimath. All of us concurred, and _didi_ took care of our accommodation -- no charges! We were amazed at her generosity, and proceeded to take a dip at the confluence of Alakananda and Mandakini.
 
-<div class="row">
-  <div class="column">
+<div class="column">
+  <div class="row">
     <figure>
     <img src="{{site.url}}/img/2022_himalayas/dp7_1.jpg" style="width:100%">
     <figcaption style="text-align: center"> View of the sangam from our room </figcaption>
     </figure>
   </div>
-  <div class="column">
+  <div class="row">
     <figure>
     <img src="{{site.url}}/img/2022_himalayas/dp7_2.jpg" style="width:100%">
     <figcaption style="text-align: center"> The view of horizon from the sangam</figcaption>
@@ -162,7 +162,7 @@ We woke up early and took the bus to Karnaprayag. This place seemed a bit more c
 <div class="row">
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp8.jpg" style="width:100%">
+    <img src="{{site.url}}/img/2022_himalayas/dp8.jpg" style="width:750%">
         <figcaption style="text-align: center"> Sangam of Alakananda with Pindar </figcaption>
     </figure>
   </div>
