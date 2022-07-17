@@ -53,7 +53,7 @@ Some piping hot maggie and tea were the perfect breakfast I needed. As we kept m
 <div class="row">
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp1_2.jpg" style="width:50%">
+    <img src="{{site.url}}/img/2022_himalayas/dp1_2.jpg" style="width:100%">
     <figcaption style="text-align: center"> Devaprayag: Bus view </figcaption>
     </figure>
   </div>
@@ -72,7 +72,7 @@ With our numerous bags, we walked down, crossing a narrow bridge across the rive
 <div class="row">
   <div class="column">
     <figure>
-    <img src="{{site.url}}/img/2022_himalayas/dp3.jpg" style="width:50%">
+    <img src="{{site.url}}/img/2022_himalayas/dp3.jpg" style="width:100%">
     <figcaption style="text-align: center"> Sangam: Bridge view </figcaption>
     </figure>
   </div>
@@ -84,6 +84,7 @@ With our numerous bags, we walked down, crossing a narrow bridge across the rive
   </div>
 </div> 
 
+The blue coloured river is the Bhagirathi, while the brown one is Alakananda. As they meet, they don't merge immediately. Rather, they slosh against each other, forming small vortex-like features which remind us of Kelvin-Helmholtz instabililty. Then, some many hundred meters down, they finally unite to give rise to the might Ganga. 
 
 &nbsp;
 
