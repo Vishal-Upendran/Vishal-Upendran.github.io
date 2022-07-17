@@ -64,15 +64,15 @@ I was awestruck by the river, and literally froze to the spot. My friend pulled 
 <figcaption style="text-align: center"> Entrance to Har ki Pauri</figcaption>
 </figure>
 
-So we go and take a dip into the river. I have _never_ taken bath in a flowing river before, and the speed of the flow + slipper slopes just advected me like I am parcel of fluid. No bones were broken, but there was impact injury. But the water was quite cold, and yet very refreshing, not to mention it was very sweet! 
+So we go and take a dip into the river. I have _never_ taken bath in a flowing river before, and the speed of the flow + slippery slopes just advected me like I am parcel of fluid. No bones were broken, but there was impact injury. But the water was quite cold, and yet very refreshing, not to mention it was very sweet! 
 
 It was already mid-day by the time we were done going to the various temples at Har ki Pauri. We then had two options -- to visit the Mansa devi temple on one side, or the Chandi devi temple on the other side. Both reside on hills on either sides of Ganga. My friend -- who also happens to have been brought up in Haridwar as a child -- got us to Chandi devi temple, as there is a full-town viewpoint. And so we trekked (with injured knee!) in the afternoon Sun at 38 degrees Celsius, all the while I and the third friend kept pumping in lemon soda for rehydration. We finally reached the top of the hill, and went straight to the temple. The temple is very small and quaint, but has an amazing vibe, with the strong gusts of cool wind chiming the numerous small bells hung around the altar. 
 
 We circumambulated the shrine, and sat down for lunch. Two of us were exhausted (more like dehydrated) to the point of not wanting to have a proper lunch. So we settled for a large nice glass of thick Lassi. 
 
 <figure>
-<img src="{{site.url}}/img/2022_haridwar/h61.jpg" style="width:100%">
-<figcaption style="text-align: center"> A cauldron full of cool, strong love :3</figcaption>
+<img src="{{site.url}}/img/2022_haridwar/h61.jpg" style="width:50%">
+<figcaption style="text-align: center"> A cauldron full of cool, strong love!</figcaption>
 </figure>
 
 After resting, we then walked towards the viewpoint. This was literally at the edge of the hill, and quite scary initially. But the view we got was amazing -- have a look:
