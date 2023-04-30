@@ -1,9 +1,9 @@
 ---
 layout: default
-title: A collection of various things
+title: Teaching 
 ---
 
-This page comprises of a collection of numerous miscellaneous articles/tutorials that I have taught over the years. 
+This page consists of a collection of numerous miscellaneous articles/tutorials that I have taught over the years. 
 
 * * *
 
