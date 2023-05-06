@@ -8,9 +8,11 @@ category: instiprojs
 You may find a part of my CV -- Education, Awards, services and conferences below. Rest are made available [here]({{site.url}}/assets/CV_VishalUpendran.pdf). A comprehensive profile may also be found on [Linkedin](https://www.linkedin.com/in/vishal-upendran1995).
 
 ### Employment
+
 Position|Location|Time|
 |:-:|:-:|:-:|
 |Research Associate|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
+|:-:|:-:|:-:|
 
 
 ### Education
@@ -41,6 +43,7 @@ Position|Location|Time|
 - **DAAD-WISE scholar 2016**: One among the 170 students selected from 3000 students across all over India to perform researchat a premier institute in Germany for 80 days.
 
 ### Press releases
+- March 2023:  NASA-enabled AI Predictions May Give Time to Prepare for Solar Storms by Vanessa Thomas: https://www.nasa.gov/feature/goddard/2023/sun/nasa-enabled-ai-predictions-may-give-time-to-prepare-for-solar-storms .
 - August 2021: Keeping Tabs on the Quiet Sun in AAS Nova by Susanna Kohler: https://aasnova.org/2021/08/09/featured-image-keeping-tabs-on-the-quiet-sun/. 
 
 ### Services
