@@ -9,7 +9,9 @@ You may find below a list of publications, and (in some cases) associated pages 
 
 Interested person may also check my [ADS library page](https://ui.adsabs.harvard.edu/public-libraries/8OTQLTKTQJ61YPMhZ8dIjA).
 
-- **Global geomagnetic perturbation forecasting using Deep Learning**: Vishal Upendran, Panagiotis Tigas, Bashi Ferdousi, Téo Bloch, M.C.M Cheung, Siddha Ganju et. al. 2022, Space Weather, 20, e2022SW003045.[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022SW003045). [Arxiv](https://arxiv.org/abs/2205.12734).
+- **Nanoflare Heating of the Solar Corona Observed in X-Rays**: Vishal Upendran, Durgesh Tripathi, N. P. S. Mithun, Santosh Vadawale, and Anil Bhardwaj 2022 ApJL 940 L38. [Paper](https://iopscience.iop.org/article/10.3847/2041-8213/aca078).
+
+- **Global geomagnetic perturbation forecasting using Deep Learning**: Vishal Upendran, Panagiotis Tigas, Bashi Ferdousi, Téo Bloch, M.C.M Cheung, Siddha Ganju et. al. 2022, Space Weather, 20, e2022SW003045.[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022SW003045). [Arxiv](https://arxiv.org/abs/2205.12734). [NASA Press release](https://www.nasa.gov/feature/goddard/2023/sun/nasa-enabled-ai-predictions-may-give-time-to-prepare-for-solar-storms). [GitHub Code](https://github.com/Vishal-Upendran/geoeffectivenet-1). [SpaceML tutorial](https://spaceml.org/repo/project/60c0a78d4ba8cb0012611ad4).
 
 - **On the formation of solar wind & switchbacks, and quiet Sun heating**:  Vishal Upendran and Durgesh Tripathi 2022 ApJ 926 138.[Paper](https://doi.org/10.3847/1538-4357/ac3d88). [Arxiv](https://arxiv.org/abs/2111.11668). [15-min Talk @ Hinode-14/IRIS-11](https://www.youtube.com/watch?v=6ptvAIbe7sY). [Hour long seminar at IUCAA - including the paper below](https://www.youtube.com/watch?v=67wRqZl64cA).[Talk at the European Solar Physics Online Seminar](https://espos.stream/2021/12/16/Upendran/). [IRIS Nugget](https://iris.lmsal.com/nugget).[Popular science article](https://cosmicvarta.in/vishal_article_anyway_plasma_moves).
 

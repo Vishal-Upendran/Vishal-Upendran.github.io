@@ -15,9 +15,9 @@ layout: default
 
 * * *
 
-I am a researche associate/postdoc at the Lockheed Martin Solar and Astrophysics Laboratory (LMSAL) and Bay Area Environmental Research Institute (BAERI) working mainly on the NASA Mission Multi-slit Solar Explorer (MUSE). 
+I am a research associate/postdoc at the Lockheed Martin Solar and Astrophysics Laboratory (LMSAL) and Bay Area Environmental Research Institute (BAERI) working mainly on the NASA Mission Multi-slit Solar Explorer (MUSE). 
 
-I completed my PhD from the Inter University Center for Astronomy and Astrophysics (IUCAA), Pune, India with Prof. Durgesh Tripathi. I did my undergraduation/graduation (a 5 year course) from Indian Institute of Technology-Madras (IIT Madras), India.
+I completed my PhD from the Inter University Center for Astronomy and Astrophysics (IUCAA), Pune, India with Prof. Durgesh Tripathi, while I did my B.Tech+M.Tech (a 5 year course) from Indian Institute of Technology-Madras (IIT Madras), India.
 
 As a part of my PhD, I have studied various aspects of the solar atmosphere and the solar wind. The solar wind is a stream of particles that starts from the Sun, and fills the interplanetary medium. Specifically, I have studied the regions of the Sun which give rise to the solar wind, and the possible acceleration locations/mechanism of the solar wind. However, this solar wind emergence and acceleration is intimately tied to another phenomenon called the "Coronal heating problem". This pertains to the fact that the temperature of the solar atmosphere increases as we move away from the surface of the Sun -- prompting us to think of possible energy source which dumps energy in the corona. I performed these studies predominantly using remote sensing spectroscopic and photometric observations of the Sun. Furthermore, I also studied the solar wind itself, and the effects it causes down here on the Earth -- i.e, in other words, the "Space weather".
 

@@ -4,7 +4,7 @@ title: Travel
 ---
 {% assign posts = site.categories.Trips %}
 {% for post in posts %}
-{% assign loopindex = forloop.index | modulo: 2 %}
+{% assign loopindex = forloop.index | modulo: 3 %}
 {% if loopindex == 1 %}
   <div class="row">
   <div class="column">

@@ -7,12 +7,17 @@ category: instiprojs
 
 You may find a part of my CV -- Education, Awards, services and conferences below. Rest are made available [here]({{site.url}}/assets/CV_VishalUpendran.pdf). A comprehensive profile may also be found on [Linkedin](https://www.linkedin.com/in/vishal-upendran1995).
 
+### Employment
+Position|Location|Time|
+|:-:|:-:|:-:|
+|Research Associate|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
+
 
 ### Education
 
 |Position|Location|Time|
 |:-:|:-:|:-:|
-|PhD in Astrophysics (Senior Research Fellow), under Prof. Durgesh Tripathi, IUCAA|Inter University Centre for Astronomy and Astrophysics, Pune|2018-2023(exp)|
+|PhD in Astrophysics (Senior Research Fellow), under Prof. Durgesh Tripathi, IUCAA|Inter University Centre for Astronomy and Astrophysics, Pune|August 2018-March 2023|
 |:-:|:-:|:-:|
 |Dual degree: B.Tech (Engineering design) + M.Tech (Biomedical design), Minor in Physics|Indian Institute of Technology – Madras, Chennai, India| 2013-2018|
 |:-:|:-:|:-:|
@@ -41,8 +46,16 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 ### Services
 - Reviewer for articles in the journal AGU: Spaceweather.
 - Reviewer for articles in the journal Solar Physics.
+- Reviewer for articles in the journal Frontiers in Astronomy and Space Sciences
 
 ### Invited Talks
+
+- April 2023 @ Science from In-situ measurements of Aditya-L1 (SIMA-01): Solar wind prediction using deep learning.
+- March 2023 @ Machine learning workshop at the Astronomical Society of India meeting: From Sun to Earth using Interpretable A.I.
+- Nov 2022 @ Aditya-L1 workshop at Manipal Academy of Higher Education, Udupi: Machine and deep learning, with applications to solar physics.
+- Nov 2022 @ Young Astronomer's meeting, ARIES, Nainital: CosmicVarta: An initiative to take current Indian research to the public.
+- Nov 2022 @ IIT BHU: Solar wind sources in the chromosphere.
+- Nov 2022 @ IIT BHU: Accelerating heliophysics workflow with deep learning and interpretable A.I.
 - June 2022 @ SPARC workshop: Machine Learning in Solar Physics and Space Weather at IISER Kolkata: "Accelerating space weather forecasts with deep learning and interpretable A.I".
 - June 2022 @ The Geospace Environment Modeling (GEM) summer workshop 2022 at Hawaii (Online): "Tutorial on using spherical harmonics with data".
 - April 2022 @ Robert Bosch Center for Data Science and Artificial Intelligence, IIT - Madras: "Accelerating astronomy workflow with deep learning and interpretable A.I".
@@ -52,6 +65,9 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 -  May 2021 @ Physikalisch-Meteorologische Observatorium Davos/World Radiation Center (PMOD/WRC): "On the Impulsive Heating of Quiet Solar Corona".
 
 ### Public Talks
+-  Feb 2023 @ IUCAA National Science Day celebrations: Introduction to Sun and the Aditya-L1 mission
+-  Nov 2022 @ IIT BHU: Open workshop and tutorial on Introduction to machine and deep learning 
+-  Oct 2022 @ Solar eclipse special talk at IUCAA: Aditya-L1: India's first mission to the Sun (in **English and Tamil**)
 -  Feb 2022 @ IUCAA National Science Day celebrations: The many ways to know our Universe.
 -  Feb 2022 @ Athaang astronomy club, IISER Tirupati: The exhalations and snores of the slumbering Sun.
 -  Aug 2021 @ Fergusson college, Pune, India: From Sun to Earth using A.I
