@@ -10,9 +10,9 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 ### Employment
 
 Position|Location|Time|
-|:-:|:-:|:-:|
-|Research Associate|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
-|:-:|:-:|:-:|
+:-:|:-:|:-:|
+Research Associate|Palo Alto, CA, USA|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
+:-:|:-:|:-:|
 
 
 ### Education
