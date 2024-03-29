@@ -5,14 +5,14 @@ description: Complete CV and experience
 category: instiprojs
 ---
 
-You may find a part of my CV -- Education, Awards, services and conferences below. Rest are made available [here]({{site.url}}/assets/CV_VishalUpendran.pdf). A comprehensive profile may also be found on [Linkedin](https://www.linkedin.com/in/vishal-upendran1995).
+You may find a part of my CV -- Education, Awards, services and conferences below. Rest are made available [here]({{site.url}}/assets/CV_VishalUpendran.pdf). A comprehensive profile may also be found on [Linkedin](https://www.linkedin.com/in/vishal-upendran1995). You may find my thesis ''Heating and dynamics of the solat atmosphere'' [here](https://ui.adsabs.harvard.edu/abs/2023arXiv230401553U/abstract).
 
 ### Employment
 
-Position|Location|Time|
-:-:|:-:|:-:|
-Research Associate|Palo Alto, CA, USA|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
-:-:|:-:|:-:|
+|Position|Location|Time|
+|:-:|:-:|:-:|
+|Research Associate|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
+|:-:|:-:|:-:|
 
 
 ### Education
@@ -24,13 +24,35 @@ Research Associate|Palo Alto, CA, USA|Lockheed Martin Solar and Astrophysics Lab
 |Dual degree: B.Tech (Engineering design) + M.Tech (Biomedical design), Minor in Physics|Indian Institute of Technology – Madras, Chennai, India| 2013-2018|
 |:-:|:-:|:-:|
 
+
+### Experience
+
+- **Frontier Development lab** [Faculty: June 2023 -- Sept 2023]: Lead the FDL-X team of 'Multiscale Geoeffectiveness', culminating in the development of an end-to-end Sun to the solar wind to global geomagnetism forecaster.
+
+### Mentoring and Supervision
+
+- Ph. D thesis:
+  - Mr. Biswanath Malaker [2021 - ...]: Multi-wavelength Observations of Polar
+Plumes and Jets, **Supervisor: Prof. Durgesh Tripathi**.
+  - Mr. Linn Abraham [2023 - ...]:  Solar flare forecasting using interpretable deep learning, through **ISRO-RESPOND** project, **Supervisor: Prof. Durgesh Tripathi**.
+- Master's thesis:
+  - Ms. Kajal Kesare [2021 - 2022]:  Quantifying information transfer due to solar wind from the Sun to 1 AU, **Supervisor: Prof. Durgesh Tripathi**.
+- Project students:
+  - Mr. Deepak Kathait [2023 - ...]: Understanding the physics of solar flares through **ISRO-RESPOND**.
+  - Mr. Pranava Seth [2023 - ...]: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT.
+  - Mr. Archit Dubey [May 2023 - Aug 2023]: Effect of mesh size on diffraction in Multislit Solar Explorer, **Supervisor: Dr. Bart de Pontieu / Dr. Gary Kushner**
+
 ### Awards and scholarships
+
+- **K.D Abhyankar best thesis presentation**: At the Astronomical Society of India meeting - 2023 for thesis titled ``Heating and dynamics of the solar atmosphere''.
+
+- **Indo-French Center for the Promotion of Advanced Research grant** (2023-2026): Co-I of the project ''Investigating the origin of switchbacks in the solar corona via interchange reconnection - A statistical and multi-instruments approach including machine learning", with P.I Prof. Durgesh Tripathi and Dr. Clara Froment.
 
 - **IAU Grant**: Awarded the International Astronomical Union grant of 2000 Euros for giving two contributed talks at the IAU General Assembly 2022 from August 2- 12 in Busan, South Korea.
 
 - **Outstading Student Presentation Award**: Awarded the OSPA at the AGU: Fall meeting in 2021 for talk titled "Solar wind signatures in the chromosphere". 
 
-- **ISRO-RESPOND grant 2021**: Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
+- **ISRO-RESPOND grant** (2022 - 2025): Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
 
 - **Nvidia Hardware grant**: Principal Investigator for the project "Solar wind source region estimation using deep learning", through an award of Nvidia A100 GPU from the Nvidia Hardware grant 2021.
 
@@ -43,15 +65,18 @@ Research Associate|Palo Alto, CA, USA|Lockheed Martin Solar and Astrophysics Lab
 - **DAAD-WISE scholar 2016**: One among the 170 students selected from 3000 students across all over India to perform researchat a premier institute in Germany for 80 days.
 
 ### Press releases
+
 - March 2023:  NASA-enabled AI Predictions May Give Time to Prepare for Solar Storms by Vanessa Thomas: https://www.nasa.gov/feature/goddard/2023/sun/nasa-enabled-ai-predictions-may-give-time-to-prepare-for-solar-storms .
 - August 2021: Keeping Tabs on the Quiet Sun in AAS Nova by Susanna Kohler: https://aasnova.org/2021/08/09/featured-image-keeping-tabs-on-the-quiet-sun/. 
 
 ### Services
+
 - Reviewer for articles in the journal AGU: Spaceweather.
 - Reviewer for articles in the journal Solar Physics.
 - Reviewer for articles in the journal Frontiers in Astronomy and Space Sciences
+- Reviewer for articles in the journal RAS Techniques and Instruments.
 
-### Invited Talks
+<!-- ### Invited Talks
 
 - April 2023 @ Science from In-situ measurements of Aditya-L1 (SIMA-01): Solar wind prediction using deep learning.
 - March 2023 @ Machine learning workshop at the Astronomical Society of India meeting: From Sun to Earth using Interpretable A.I.
@@ -73,8 +98,8 @@ Research Associate|Palo Alto, CA, USA|Lockheed Martin Solar and Astrophysics Lab
 -  Oct 2022 @ Solar eclipse special talk at IUCAA: Aditya-L1: India's first mission to the Sun (in **English and Tamil**)
 -  Feb 2022 @ IUCAA National Science Day celebrations: The many ways to know our Universe.
 -  Feb 2022 @ Athaang astronomy club, IISER Tirupati: The exhalations and snores of the slumbering Sun.
--  Aug 2021 @ Fergusson college, Pune, India: From Sun to Earth using A.I
-
+-  Aug 2021 @ Fergusson college, Pune, India: From Sun to Earth using A.I -->
+<!-- 
 ### Conferences
 - Aug 2022: XXXI IAU General assembly: Symposium on “The Era of Multi Messenger Solar Physics”.
     - **Talk**: Exploring the formation solar wind, switchbacks and Quiet Sun heating.
@@ -108,4 +133,4 @@ Research Associate|Palo Alto, CA, USA|Lockheed Martin Solar and Astrophysics Lab
 - Nov 2019: IRIS-10 conference, Bangalore, India
     - Poster: Heating of the Quiet Corona
 - Sep 2019: 1st Conference on Machine Learning in Heliophysics, Amsterdam, Netherlands
-    - Poster: Solar wind prediction using Deep learning 
+    - Poster: Solar wind prediction using Deep learning  -->
