@@ -8,14 +8,14 @@ layout: default
 <figcaption>
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9253-6093" href="https://orcid.org/0000-0002-9253-6093" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">Orcid profile</a> <a href="https://ui.adsabs.harvard.edu/public-libraries/8OTQLTKTQJ61YPMhZ8dIjA">  <img src="img/adslogo.svg" style="width:1em;margin-right:.5em;" alt="Gscholar">  ADS Library  </a>  <a href="https://scholar.google.com/citations?user=whROWPoAAAAJ&hl=en"> <img src="img/gscholar.png" style="width:1em;margin-right:.5em;" alt="Gscholar"> Google scholar </a> </div>
 
-<div> Email: upendran@baeri.org </div>
+<div> Email: vupendran@seti.org / vishal@lmsal.com </div>
 </figcaption>
 </center>
 </figure>
 
 * * *
 
-I am a research associate/postdoc at the Lockheed Martin Solar and Astrophysics Laboratory (LMSAL) and Bay Area Environmental Research Institute (BAERI) working mainly on the NASA Mission Multi-slit Solar Explorer (MUSE). 
+I am a research scientist at the [SETI Institute](https://www.seti.org/) and at the [Lockheed Martin Solar and Astrophysics Laboratory (LMSAL)](https://lmsal.com/). I work mainly on the NASA Missions like Multi-slit Solar Explorer (MUSE), Atmospheric Imaging Assemmbly (AIA), and Interface Region Imaging Spectrograph (IRIS). 
 
 I completed my PhD from the Inter University Center for Astronomy and Astrophysics (IUCAA), Pune, India with Prof. Durgesh Tripathi, while I did my B.Tech+M.Tech (a 5 year course) from Indian Institute of Technology-Madras (IIT Madras), India.
 
