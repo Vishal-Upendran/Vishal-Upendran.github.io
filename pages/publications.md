@@ -9,6 +9,16 @@ You may find below a list of publications, and (in some cases) associated pages 
 
 Interested person may also check my [ADS library page](https://ui.adsabs.harvard.edu/public-libraries/8OTQLTKTQJ61YPMhZ8dIjA).
 
+-**SPACE-SUIT: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT**: Pranav Seth, Vishal Upendran, et. al  2025 Sol Phys 300, 89. [Arxiv](https://ui.adsabs.harvard.edu/abs/2024arXiv241208589S/abstract). [Paper](https://link.springer.com/article/10.1007/s11207-025-02504-1).
+
+- **Comparison of plasma dynamics in Coronal Holes and Quiet Sun using flux emergence simulations**: Vishal Upendran, Durgesh Tripathi, Bhargav Vaidya, Takaaki Yokoyama, Mark Cheung 2025 ApJ 985 27. [Paper](https://iopscience.iop.org/article/10.3847/1538-4357/adc5fd).
+
+- **X-class Flare on 2023 December 31 Observed by the Solar Ultraviolet Imaging Telescope on Board Aditya-L1**: Soumya Roy, Durgesh Tripathi, Vishal Upendran, et. al 2025 ApJL 983 L6. [Paper](https://iopscience.iop.org/article/10.3847/2041-8213/adc387).
+
+- **Surface Flux Transport Modelling using Physics Informed Neural Networks**: Jithu Athalathil, Bhargav Vaidya, Sayan Kundu, Vishal Upendran,  Mark Cheung 2024 ApJ 975 258. [Paper](https://iopscience.iop.org/article/10.3847/1538-4357/ad7d91).
+
+- **Thermodynamic Evolution of Plumes**: Biswanath Malaker, Vishal Upendran and Durgesh Tripathi 2024 ApJ 974 163. [Paper](https://iopscience.iop.org/article/10.3847/1538-4357/ad6c4b).
+
 - **Nanoflare Heating of the Solar Corona Observed in X-Rays**: Vishal Upendran, Durgesh Tripathi, N. P. S. Mithun, Santosh Vadawale, and Anil Bhardwaj 2022 ApJL 940 L38. [Paper](https://iopscience.iop.org/article/10.3847/2041-8213/aca078).
 
 - **Global geomagnetic perturbation forecasting using Deep Learning**: Vishal Upendran, Panagiotis Tigas, Bashi Ferdousi, Téo Bloch, M.C.M Cheung, Siddha Ganju et. al. 2022, Space Weather, 20, e2022SW003045.[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022SW003045). [Arxiv](https://arxiv.org/abs/2205.12734). [NASA Press release](https://www.nasa.gov/feature/goddard/2023/sun/nasa-enabled-ai-predictions-may-give-time-to-prepare-for-solar-storms). [GitHub Code](https://github.com/Vishal-Upendran/geoeffectivenet-1). [SpaceML tutorial](https://spaceml.org/repo/project/60c0a78d4ba8cb0012611ad4).
