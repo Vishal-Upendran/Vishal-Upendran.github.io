@@ -11,7 +11,8 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
 
 |Position|Location|Time|
 |:-:|:-:|:-:|
-|Research Associate|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - Current|
+|Research Scientist|Lockheed Martin Solar and Astrophysics Laboratory/SETI Institute|March 2025 - Current|
+|Research Associate|Lockheed Martin Solar and Astrophysics Laboratory/Bay Area Environmental Research Institute|April 2023 - February 2025|
 |:-:|:-:|:-:|
 
 
@@ -35,14 +36,17 @@ You may find a part of my CV -- Education, Awards, services and conferences belo
   - Mr. Biswanath Malaker [2021 - ...]: Multi-wavelength Observations of Polar
 Plumes and Jets, **Supervisor: Prof. Durgesh Tripathi**.
   - Mr. Linn Abraham [2023 - ...]:  Solar flare forecasting using interpretable deep learning, through **ISRO-RESPOND** project, **Supervisor: Prof. Durgesh Tripathi**.
+  - Mr. Deepak Kathait [2023 - ...]: Understanding the physics of solar flares through **ISRO-RESPOND** project. **Supervisor: Prof. Durgesh Tripathi**.
+
 - Master's thesis:
   - Ms. Kajal Kesare [2021 - 2022]:  Quantifying information transfer due to solar wind from the Sun to 1 AU, **Supervisor: Prof. Durgesh Tripathi**.
 - Project students:
-  - Mr. Deepak Kathait [2023 - ...]: Understanding the physics of solar flares through **ISRO-RESPOND**.
-  - Mr. Pranava Seth [2023 - ...]: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT.
+  - Mr. Pranava Seth [2023 - 2025]: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT.
   - Mr. Archit Dubey [May 2023 - Aug 2023]: Effect of mesh size on diffraction in Multislit Solar Explorer, **Supervisor: Dr. Bart de Pontieu / Dr. Gary Kushner**
 
 ### Awards and scholarships
+
+- **NASA ROSES HGI award**: Awarded a NASA HGI grant of ~$500K for Investigating source regions of solar wind.
 
 - **K.D Abhyankar best thesis presentation**: At the Astronomical Society of India meeting - 2023 for thesis titled ``Heating and dynamics of the solar atmosphere''.
 
@@ -50,7 +54,7 @@ Plumes and Jets, **Supervisor: Prof. Durgesh Tripathi**.
 
 - **IAU Grant**: Awarded the International Astronomical Union grant of 2000 Euros for giving two contributed talks at the IAU General Assembly 2022 from August 2- 12 in Busan, South Korea.
 
-- **Outstading Student Presentation Award**: Awarded the OSPA at the AGU: Fall meeting in 2021 for talk titled "Solar wind signatures in the chromosphere". 
+- **Outstanding Student Presentation Award**: Awarded the OSPA at the AGU: Fall meeting in 2021 for talk titled "Solar wind signatures in the chromosphere". 
 
 - **ISRO-RESPOND grant** (2022 - 2025): Co-Investigator for the project "Solar Flares: Physics and Forecasting for better understanding of Space Weather"; PI: Durgesh Tripathi, IUCAA, Pune.
 

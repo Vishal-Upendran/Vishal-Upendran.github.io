@@ -9,7 +9,7 @@ You may find below a list of publications, and (in some cases) associated pages 
 
 Interested person may also check my [ADS library page](https://ui.adsabs.harvard.edu/public-libraries/8OTQLTKTQJ61YPMhZ8dIjA).
 
--**SPACE-SUIT: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT**: Pranav Seth, Vishal Upendran, et. al  2025 Sol Phys 300, 89. [Arxiv](https://ui.adsabs.harvard.edu/abs/2024arXiv241208589S/abstract). [Paper](https://link.springer.com/article/10.1007/s11207-025-02504-1).
+- **SPACE-SUIT: An Artificial Intelligence based chromospheric feature extractor and classifier for SUIT**: Pranav Seth, Vishal Upendran, et. al  2025 Sol Phys 300, 89. [Arxiv](https://ui.adsabs.harvard.edu/abs/2024arXiv241208589S/abstract). [Paper](https://link.springer.com/article/10.1007/s11207-025-02504-1).
 
 - **Comparison of plasma dynamics in Coronal Holes and Quiet Sun using flux emergence simulations**: Vishal Upendran, Durgesh Tripathi, Bhargav Vaidya, Takaaki Yokoyama, Mark Cheung 2025 ApJ 985 27. [Paper](https://iopscience.iop.org/article/10.3847/1538-4357/adc5fd).
 
